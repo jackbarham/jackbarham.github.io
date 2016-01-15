@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>UI Build</title>
+
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
+    <link href="css/app.css" rel="stylesheet">
+
+</head>
+<body id="app">
+
+    <layout-header></layout-header>
+
+    <div class="wrapper">
+
+        <div id="typography" class="styleguide-section">
+            <div class="styleguide-text">
+                <h2 class="t-header-main">Content header and title</h2>
+            </div>
+            <div class="styleguide-text">
+                <h3 class="t-header-sub">Item and sub title</h3>
+            </div>
+            <div class="styleguide-text">
+                <span class="t-menu-list">Menu and list title</span>
+            </div>
+            <div class="styleguide-text">
+                <span class="t-disabled">Placeholder text</span>
+            </div>
+            <div class="styleguide-text">
+                <span class="t-label">Label and dropdown</span>
+            </div>
+            <div class="styleguide-text">
+                <span class="t-descrete">Descrete content and page URL</span>
+            </div>
+            <div class="styleguide-text">
+                <p>General text and form content. Incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <a href="#">nostrud exercitation ullamco</a> laboris nisi ut aliquip ex ea.</p>
+            </div>
+        </div>
+
+        <div id="button" class="styleguide-section">
+            <click type="action">Add new item</click>
+            <click type="general">Confirm</click>
+            <click type="warning">Delete</click>
+            <click type="disabled">Disabled</click>
+        </div>
+
+        <div id="form" class="styleguide-section">
+            <form-input
+                    type="text"
+                    label="Form label"
+                    error="false"
+                    value="This form has content"
+                    placeholder="Placeholder text">
+            </form-input>
+
+            <form-input
+                    type="text"
+                    label="Form label"
+                    error="true"
+                    message="Label replaced with error message"
+                    placeholder="Placeholder text">
+            </form-input>
+        </div>
+
+        <div id="dropdown" class="styleguide-section">
+            <drop-click text="Dropdown click">
+                <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="#">Completed</a></li>
+                    <li><a class="dropdown-item" href="#">Pending</a></li>
+                </ul>
+            </drop-click>
+        </div>
+
+        <div id="image-upload" class="styleguide-section">
+            <upload-image info="Minimum width 700px, will be cropped to 16:9"></upload-image>
+        </div>
+
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
