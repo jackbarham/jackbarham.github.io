@@ -21,13 +21,6 @@
 
     <div class="layout-wrapper">
 
-        <div id="modals" class="styleguide-section cf">
-            <click type="warning" position="left" @click="showModalSmall = true">Small modal</click>
-            <modal-small :show.sync="showModalSmall" title="Modal header">
-                <p slot="content">General text and form content. Incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
-            </modal-small>
-        </div>
-
         <div id="typography" class="styleguide-section">
             <div class="styleguide-text">
                 <h2 class="t-header-main">Content header and title</h2>
@@ -75,6 +68,8 @@
                     message="Label replaced with error message"
                     placeholder="Placeholder text">
             </form-input>
+
+            <form-checkbox label="Checkbox"></form-checkbox>
         </div>
 
         <div id="dropdown" class="styleguide-section">
@@ -87,8 +82,21 @@
             <upload-image info="Minimum width 700px, will be cropped to 16:9"></upload-image>
         </div>
 
+        <div id="modals" class="styleguide-section cf">
+            <click type="warning" position="left" @click="showModalAlert = true">Alert modal</click>
+            <modal-alert :show.sync="showModalAlert" title="Modal header">
+                <p slot="content">General text and form content. Incididunt ut labore et dolore magna aliqua ut enim ad minim veniam.</p>
+            </modal-alert>
+        </div>
+
+        <div id="dragdrop" class="styleguide-section">
+            <sort-grid></sort-grid>
+            <sort-list></sort-list>
+        </div>
+
     </div>
 
+    <script src="//cdnjs.cloudflare.com/ajax/libs/Sortable/1.4.2/Sortable.min.js"></script>
     <script src="js/main.js"></script>
 </body>
 </html>
