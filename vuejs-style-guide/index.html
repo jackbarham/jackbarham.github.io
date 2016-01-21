@@ -9,6 +9,8 @@
     <title>UI Build</title>
 
     <link href="//fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="//cdn.jsdelivr.net/medium-editor/latest/css/medium-editor.min.css" rel="stylesheet">
     <link href="css/app.css" rel="stylesheet">
 
 </head>
@@ -53,23 +55,25 @@
         </div>
 
         <div id="form" class="styleguide-section">
-            <form-input
+            <div class="grid-form cf">
+                <form-input
                     type="text"
                     label="Form label"
                     error="false"
                     value="This form has content"
                     placeholder="Placeholder text">
-            </form-input>
-
-            <form-input
+                </form-input>
+                <form-input
                     type="text"
                     label="Form label"
                     error="true"
                     message="Label replaced with error message"
                     placeholder="Placeholder text">
-            </form-input>
-
-            <form-checkbox label="Checkbox"></form-checkbox>
+                </form-input>
+                <form-select label="Searchable select" placeholder="Type to search"></form-select>
+                <form-checkbox label="Checkbox"></form-checkbox>
+            </div>
+            <editor></editor>
         </div>
 
         <div id="dropdown" class="styleguide-section">
@@ -84,9 +88,6 @@
 
         <div id="modals" class="styleguide-section cf">
             <click type="warning" position="left" @click="showModalAlert = true">Alert modal</click>
-            <modal-alert :show.sync="showModalAlert" title="Modal header">
-                <p slot="content">General text and form content. Incididunt ut labore et dolore magna aliqua ut enim ad minim veniam.</p>
-            </modal-alert>
         </div>
 
         <div id="dragdrop" class="styleguide-section">
@@ -96,7 +97,12 @@
 
     </div>
 
+    <modal-alert :show.sync="showModalAlert" title="Modal header">
+        <p slot="content">General text and form content. Incididunt ut labore et dolore magna aliqua ut enim ad minim veniam.</p>
+    </modal-alert>
+
     <script src="//cdnjs.cloudflare.com/ajax/libs/Sortable/1.4.2/Sortable.min.js"></script>
+    <script src="//cdn.jsdelivr.net/medium-editor/latest/js/medium-editor.min.js"></script>
     <script src="js/main.js"></script>
 </body>
 </html>
