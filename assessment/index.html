@@ -1,0 +1,157 @@
+<!doctype html>
+<html class="no-js" lang="">
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Name - http://oxygn.io">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>PL - Assessment Redesign</title>
+
+    <link href="css/style.css" rel="stylesheet">
+
+</head>
+<body>
+
+<div class="wrapper">
+
+    <header class="header cf">
+        <a href="#frame-welcome">
+            <img src="img/logo.png" alt="Performace Learning" class="header-logo">
+        </a>
+        <div class="header-control">
+            <div class="header-desktop">
+                <span class="header-user">Logged in as <strong>Max Roberts</strong></span>
+                <a href="#" class="button button-logout">Logout</a>
+            </div>
+            <div id="toggledropdown" class="header-mobile">
+                <i class="header-icon mdi mdi-account-circle"></i>
+                <div class="header-control-reveal">
+                    <span class="header-user">Logged in as <strong>Max Roberts</strong></span>
+                    <a href="#" class="button button-logout-mobile">Logout</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section id="frame-welcome" class="frame frame-red">
+        <div class="welcome">
+            <header class="welcome-title">
+                <h1>Hi Max, welcome to your Performance Learning assessment!</h1>
+            </header>
+            <div class="welcome-content">
+                <div class="welcome-bubbles"></div>
+                <div class="welcome-icons">
+                    <a href="#frame-intro" class="button button-start">Start<i class="mdi mdi-play"></i></a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="frame-intro" class="frame frame-green">
+        <div class="intro-wrap">
+            <div class="intro">
+                <header class="intro-title">
+                    <h1>Section 1</h1>
+                </header>
+                <span class="intro-heading">Your Lifestyle</span>
+                <div class="intro-icons"></div>
+                <a href="#frame-assesment1" class="button button-intro">Start<i class="mdi mdi-play"></i></a>
+            </div>
+        </div>
+    </section>
+
+    <section id="frame-assesment1" class="frame frame-greyish">
+        <div class="assessment">
+            <header class="assessment-title">
+                <img src="icons/education/svg/172.svg" alt="">
+                <h1>8. When do you feel you have the least amount of energy at school?</h1>
+            </header>
+            <div class="assessment-content cf">
+                <ul class="assessment-questions">
+                    <li class="cf">
+                        <span class="assessment-order"><span>a</span></span>
+                        <span class="assessment-text">When I am confused and don’t understand what I am supposed to do</span>
+                    </li>
+                    <li class="cf">
+                        <span class="assessment-order"><span>b</span></span>
+                        <span class="assessment-text">When I get a bad results in a test or exam</span>
+                    </li>
+                    <li class="cf selected">
+                        <span class="assessment-order"><span>c</span></span>
+                        <span class="assessment-text">When there is too much work and I feel stressed and under pressure and totally out of control</span>
+                    </li>
+                </ul>
+                <div class="assessment-icon">
+                    <img src="icons/education/svg/172.svg" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="assessment-control cf">
+            <a href="#frame-intro" class="button button-back"><i class="mdi mdi-play"></i></a>
+            <a href="#frame-assesment2" class="button button-next">Next<i class="mdi mdi-play"></i></a>
+        </div>
+        <div class="progress">
+            <div class="progress-amount" style="width:30%;"><span>30% completed</span></div>
+        </div>
+    </section>
+
+    <section id="frame-assesment2" class="frame frame-brightgreen">
+        <div class="assessment">
+            <header class="assessment-title">
+                <img src="icons/education/svg/113.svg" alt="">
+                <h1>9. How often do you feel at your best in school?</h1>
+            </header>
+            <div class="assessment-content cf">
+                <ul class="assessment-questions">
+                    <li class="cf selected">
+                        <span class="assessment-order"><span>a</span></span>
+                        <span class="assessment-text">Most of the time</span>
+                    </li>
+                    <li class="cf">
+                        <span class="assessment-order"><span>b</span></span>
+                        <span class="assessment-text">Sometimes, it depends on my work and how well I am doing</span>
+                    </li>
+                    <li class="cf">
+                        <span class="assessment-order"><span>c</span></span>
+                        <span class="assessment-text">If my friends are happy, I am happy</span>
+                    </li>
+                </ul>
+                <div class="assessment-icon">
+                    <img src="icons/education/svg/113.svg" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="assessment-control cf">
+            <a href="#frame-assesment1" class="button button-back"><i class="mdi mdi-play"></i></a>
+            <a href="#frame-complete" class="button button-next selected">Next<i class="mdi mdi-play"></i></a>
+        </div>
+        <div class="progress">
+            <div class="progress-amount progress-over50" style="width:70%;"><span>70% completed</span></div>
+        </div>
+    </section>
+
+    <section id="frame-complete" class="frame frame-blue">
+        <div class="complete">
+            <div class="complete-bubbles"></div>
+            <div class="complete-content">
+                <div class="complete-icons complete-icons-top"></div>
+                <span class="complete-text">Assessment Complete! Thanks Max!</span>
+                <div class="complete-icons complete-icons-bottom"></div>
+            </div>
+        </div>
+    </section>
+
+</div>
+
+<script>
+    // Toggle mobile logout screen
+    document.getElementById('toggledropdown').onclick = function() {
+        this.classList.toggle('open');
+    }
+</script>
+
+</body>
+</html>

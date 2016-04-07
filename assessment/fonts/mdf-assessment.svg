@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>
+Created by FontPrep 20130207 at Thu Apr  7 10:19:40 2016
+ By Julian Mills
+</metadata>
+<defs>
+<font id="33e00499094b5fc7752f809574b0000c" horiz-adv-x='1024' >
+  <font-face 
+    font-family="Material-Design-Iconic-Font"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="2048"
+    panose-1="2 0 6 3 0 0 0 0 0 0"
+    ascent="1792"
+    descent="-256"
+    bbox="0 -84 1708 1620"
+    underline-thickness="100"
+    underline-position="-208"
+    unicode-range="U+F205-F3AA"
+  />
+<missing-glyph 
+ />
+    <glyph glyph-name=".notdef" 
+ />
+    <glyph glyph-name=".null" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="nonmarkingreturn" horiz-adv-x="680" 
+ />
+    <glyph glyph-name="uniF205" unicode="&#xf205;" horiz-adv-x="1708" 
+d="M854 152q158 0 292 74t218 202q0 80 -94 142t-208 92t-208 30t-208 -30t-208 -92t-98 -142q84 -128 220 -202t294 -74zM854 1364q-106 0 -182 -74t-76 -180t76 -182t182 -76t180 76t74 182t-74 180t-180 74zM854 1620q354 0 604 -250t250 -602t-250 -602t-604 -250
+t-604 250t-250 602t250 602t604 250z" />
+    <glyph glyph-name="uniF3AA" unicode="&#xf3aa;" horiz-adv-x="940" 
+d="M0 1364l940 -596l-940 -596v1192z" />
+  </font>
+</defs></svg>
