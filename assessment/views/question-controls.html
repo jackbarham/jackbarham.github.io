@@ -1,0 +1,10 @@
+<div class="assessment-control" ng-show="questionControls.visible">
+    <div class="assessment-control-inner cf">
+        <div class="assessment-control-buttons cf">
+            <a ng-click="questionControls.prev()" class="button button-back"><i class="mdi mdi-play"></i></a>
+            <a ng-click="questionControls.next()" class="button button-next" ng-disabled="!questionControls.selected"
+               ng-class="{ 'selected' : questionControls.selected !== null }">Next
+                <i class="mdi mdi-play"></i></a>
+        </div>
+    </div>
+</div>

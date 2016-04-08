@@ -1,0 +1,22 @@
+<section id="frame-assesment1" class="frame-wrapper frame-greyish">
+    <div class="frame-inner">
+        <div class="assessment">
+            <header class="assessment-title">
+                <img src="icons/education/svg/172.svg" alt="">
+                <h1>{{ questionIndex }}. {{ question.label }}</h1>
+            </header>
+            <div class="assessment-content cf">
+                <ul class="assessment-questions">
+                    <li class="cf" ng-repeat="answer in question.answers" ng-click="select($index)"
+                        ng-class="{ 'selected': selected === $index }">
+                        <span class="assessment-order"><span>{{ alphabet[$index] }}</span></span>
+                        <span class="assessment-text">{{ answer.label }}</span>
+                    </li>
+                </ul>
+                <div class="assessment-icon">
+                    <img src="icons/education/svg/172.svg" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

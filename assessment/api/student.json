@@ -1,0 +1,47 @@
+{
+  "id": 711,
+  "initial_grade": "C/D",
+  "user": {
+    "id": 714,
+    "lastname": "Anderson",
+    "from_signup": false,
+    "role": "ROLE_STUDENT",
+    "username": "scarlett.anderson.william-de-ferrers",
+    "email": "scarlett.anderson.william-de-ferrers@myperformancelearning.com",
+    "firstname": "Scarlett",
+    "is_active": true
+  },
+  "current_risk_group": "AL4.6",
+  "school": {
+    "school_slug": "william-de-ferrers",
+    "id": 6,
+    "max_licenses": 60,
+    "ploa_level": [
+      "ploa2"
+    ],
+    "school_address": "Trinity Square,South Woodham Ferrers, Essex, CM3 5JU",
+    "headteacher": {
+      "id": 811,
+      "lastname": "Ozer",
+      "title": "Ms",
+      "from_signup": false,
+      "username": "MOzer@williamdeferrers.essex.sch.uk",
+      "email": "MOzer@williamdeferrers.essex.sch.uk",
+      "firstname": "Melanie",
+      "role": "ROLE_HEADTEACHER",
+      "is_active": true
+    },
+    "licenses_used": 75,
+    "created_on": "2015-10-13T14:19:08+0100",
+    "is_active": true,
+    "school_name": "William de Ferrers School"
+  },
+  "target_ploa_score": "98.7",
+  "target_grade": "A/B",
+  "initial_ploa_score": "41.4",
+  "current_ploa_score": "48.037655182772",
+  "date_of_birth": "1998-05-18T00:00:00+0100",
+  "risk_group": "AL4.5",
+  "gender": "female",
+  "school_year": 13
+}

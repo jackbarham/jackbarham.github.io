@@ -1,0 +1,1018 @@
+{
+  "id": 2,
+  "label": "Sample",
+  "question_groups": [
+    {
+      "id": 2,
+      "label": "Personal Growth",
+      "style": {
+        "colour": "secondary-green2",
+        "icon": "run"
+      },
+      "is_active": true,
+      "questions": [
+        {
+          "id": 2,
+          "label": "Where are you now in your academic career & how do you feel towards it?",
+          "answers": [
+            {
+              "label": "I am exactly where I would like to be with regards to my day-to-day performance and grades, there is nothing I want to change or improve on",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up your great progress"
+            },
+            {
+              "label": "I am good at remembering information but would like to be more organised and efficient",
+              "score": 75,
+              "descriptive_text": "It’s great to hear that you are good at remembering information. With regards to getting more organized and efficient - this will involve you staying really focused during your PL Lessons, around managing your time and organising yourself.  By giving you a clear process to organise your work, you will be prevented from feel overwhelmed when the amount of information you have to remember starts to increase. "
+            },
+            {
+              "label": "I am on track but have moments where I doubt myself and the progress I am making, I then get nervous especially when sitting tests and exams ",
+              "score": 75,
+              "descriptive_text": "Thank you for your honest answer. The three core reasons you doubt yourself, comes down to needing to improve on your abilities. These are: retaining more information, managing your time effectively and when it comes to exam times, managing your anxiety.  Your PL Curriculum will provide you with these skills - the challenges you face are only technical i.e. skills that can be learned."
+            },
+            {
+              "label": "I am good in certain subjects but not so good in others, I want to improve this and be good in all my subjects",
+              "score": 25,
+              "descriptive_text": "Brilliant, you’re in a great place.  As a first step; list the subjects you want to improve in and write down what specific areas you want to improve on.  You’ll find your strengths in the subjects you’re good at will either come down to you enjoying that subject more or having a natural ability to retain and recall the information in it. During your PL Curriculum, you will learn to bridge your very strong core skills to your weaker ones and therefore boosting your overall performance."
+            },
+            {
+              "label": "I am under a lot of pressure to pass, it's becoming make or break for me ",
+              "score": 25,
+              "descriptive_text": "‘Hang in’ there; we know you’re under a lot of stress and having a tough time at school.  Your PL Curriculum will teach you how to get back on track by focusing on the pure skills you need to learn to ‘get out of the mud’ and therefore delivering the results you know you can get.  Take a few deep breaths, write down all the areas you feel you need to make improvements in and get ready to turn things around.  "
+            },
+            {
+              "label": "I am considering giving up formal education as I am not happy with my current situation at all ",
+              "score": 5,
+              "descriptive_text": "‘Hang in’ there; we know you’re under a lot of stress and having an extremely difficult time.  You’re most likely feeling that way because you’ve had some ‘tough breaks’ recently. Remember everything has a solution! By participating in the PL Curriculum you will have the opportunity to take a closer, solutions orientated ‘look’ at what’s working and what isn’t.  You’ll then, on a weekly basis, be taught the skills to help you get back on track and get some good results in."
+            },
+            {
+              "label": "I do not know, I have never given it any thought or consideration as I am not bothered either way",
+              "score": 5,
+              "descriptive_text": "Thank you for your honesty here. It’s important for you to begin to focus on areas you feel you would like to improve on in school. Making these improvements is not as difficult, boring or frustrating as you may think.  During your PL Curriculum you will be given an amazing opportunity to really boost your performance and begin to enjoy being in school. Give yourself a chance and as an immediate next step, write a list of three areas you’d like to improve on.  "
+            },
+            {
+              "label": "I get angry a lot as I find school frustrates me, teachers and students make me angry and I find it hard to control my emotions",
+              "score": 25,
+              "descriptive_text": "First of all, congratulations on your honesty, it takes a strong person to admit they get angry and find it difficult at times to control their emotions.  During your PL Curriculum you will be taught how to manage your emotions and take control of the anger you feel and learn how to turn into a more positive, empowering emotion that will serve you in school.  You will also take a look at what’s causing that anger so you can get on your way to focusing on delivering your true talent in school rather then the frustration you’re feeling now.  "
+            },
+            {
+              "label": "None of the above as I am happy with where I am right now",
+              "score": 100,
+              "descriptive_text": "We suggest that you take another look at the answers and see if there is anything else that applies to you. If not, ‘great work’ as it’s a great place too be if you truly feel that there is nothing you would like to improve or focus on.  Make sure you keeping ‘checking in’ on yourself and always write down (even if it’s small) any areas you’d like to improve in. Be proactive in this, as it’ll ensure you keep your focus on what counts."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "label": "Out of the following, what would you like to accomplish?",
+          "answers": [
+            {
+              "label": "I would like to manage my time a lot better than I currently do, I feel it's all last minute",
+              "score": 75,
+              "descriptive_text": "You currently feel it’s last minute for two reasons: 1) At times feeling overwhelmed with the amount of information you have to learn.  2) Not having a structured method to stay on top of all the work you are given.  During your PL Curriculum, you will go through our PL Quadrant of Managing Time, which teaches you how to manage your time in a way that’s totally personalised to your learning style."
+            },
+            {
+              "label": "I get really nervous towards exams and tests, I remember information and revise a lot but get too anxious",
+              "score": 50,
+              "descriptive_text": "Great honesty. Managing nerves and anxiety, some say is the single most important factor in delivering excellent performance and it applies to all top performers.  Nerves and anxiety appear when you are worrying about an event in the future e.g. your exams are coming or you’re focusing on events and experiences e.g. failing an exam in the past. During your PL Curriculum, you will be taught how to eliminate all triggers of nerves and anxiety. You will be provided with tools and techniques to manage your nerves if they appear in an exam situation. Most importantly, in one of your PL Lessons you will be build your own pre-, during and -post exam routine, which will not only focus on the technical side to your performance but ensure you are in the right mindset to get the results you know you can."
+            },
+            {
+              "label": "I try really hard but no matter how much I try I don't get better so I would like this to change",
+              "score": 50,
+              "descriptive_text": "Thank you for your honesty, we know it can get really frustrating that despite how hard you try - you’re not getting the results you want or you deserve.  Often this comes down to where you are placing your focus and what skills you are learning in order to improve. Often, effort alone doesn’t produce results.  During your PL Curriculum you will take an in-depth look at and be taught with absolute precision - how to make huge improvements in the finer, more detailed areas of your performance. Examples would be; how you retain and recall information and how you manage your time on a weekly basis.  All of these skills will be directly linked to the subjects you feel you are struggling in so you can get back on track to producing outstanding results."
+            },
+            {
+              "label": "I am not sure, I've never thought about what I want to accomplish, nothing really I guess",
+              "score": 25,
+              "descriptive_text": "We understand it can be difficult at times to think about what you really want to accomplish. At this current stage of your academic life, it is important that you begin to think about what goals you have, where you want to be in a few years, whether it’s university or straight into work as well thinking in finer detail, which specific subjects you want to improve on.  Your PL Curriculum will cover this with you in detail, as well as giving you the opportunity and framework to make the improvements you may need to make - across your subjects.  Start off by writing down three areas you’d like to focus on during your PL Curriculum. This will be the first step to beginning to think about what you want to achieve."
+            },
+            {
+              "label": "I would like at least two grades better then I am getting now",
+              "score": 25,
+              "descriptive_text": "Outstanding, make sure you are ‘crystal clear’ on what subjects you would like to make those improvements in.  Achieving a two-grade improvement will require a lot of focus and dedication to your PL Curriculum and your schoolwork. During your PL Curriculum, you will be taught the specific skills you need - to be on your way to achieving this goal.  Your first step will involve improving your memory and how you manage your time. This will give you the ability to take in a lot more information and always be in control of your workload.  Get ready as the work begins shortly."
+            },
+            {
+              "label": "Sometimes I struggle to stay awake in class and this affects my performance a lot.",
+              "score": 25,
+              "descriptive_text": "We are sorry to hear this, at first instance it appears you are struggling from sleep deprivation.  You’re most likely either finding it hard to sleep early or you are waking up throughout the night. Sleep deprivation can cause you to feel really rough, it is important you don’t ‘over think’ this. During your PL Curriculum you will be given our PL Sleep Plan, which will help alleviate this challenge. You will also be taught how to become a more efficient learner and you will be given the ability to retain and recall a lot more information in a shorter period of time, which will help you to feel less overwhelmed and more in control of your education."
+            },
+            {
+              "label": "Have a solid plan of action, not get distracted so much.  I would like more focus and for it all to be a little bit easier for me.",
+              "score": 25,
+              "descriptive_text": "Outstanding answer, ‘good on’ you for recognizing that you get distracted and that you are in need of more focus.  You’re getting distracted most likely because you’re finding it’s getting a little bit harder than normal. This is understandable. During your PL Curriculum you will focus on gaining strong skills in the areas where you need to make it all easier for you (major improvements in your memory and having a plan to ensure you keep your concentration levels up)."
+            },
+            {
+              "label": "My Maths and Science is good but my English, History and Languages are poor, I'd like to improve this",
+              "score": 75,
+              "descriptive_text": "This is extremely common and the main reasons are due to the fact that you are most likely naturally stronger in more linear, analytical, problem solving type subjects.  During your PL Curriculum you will be taught the skills to become better in more heavy text, more theory and creative subjects that involve a lot more reading and writing and as a consequence you will become a more ‘whole brain’ learner."
+            },
+            {
+              "label": "My English, History and Languages are good but my Maths and Science is poor, I'd like to improve this",
+              "score": 75,
+              "descriptive_text": "This is extremely common and the main reasons are due to the fact that you are likely to be naturally stronger in more heavy text, more theory and creative subjects.  During your PL Curriculum you will be taught the skills to become better in more linear, analytical subjects that involve more problem solving, being confident with your formulas and numbers and as a consequence you will become more of a ‘whole brain’ learner."
+            },
+            {
+              "label": "Feel more confident about myself with regards to my academic work, I feel quite depressed at school, sometimes I even feel school isn't right for me ",
+              "score": 5,
+              "descriptive_text": "We’re sorry to learn that there are times you don’t feel school is right for you. It’s important that if this feeling gets stronger then you seek help and advice from a member of the school’s inclusion or support team.  <br>You’ve stated that you want to feel more confident about your academic work; confidence is often attained through the achievement of top results, by getting better you become more confident.  Your PL Curriculum will teach you how to make improvements in your academic work, which will boost your ability to retain and recall information, improve your energy levels, give you a structured plan to manage your time and help you manage any nerves or anxiety you may feel from time to time. Your PL Curriculum will run alongside your school lessons to ensure all of your work is relevant helps you to improve on your results and therefore increases your confidence.<br>"
+            },
+            {
+              "label": "None of the above as I am happy with where I am right now",
+              "score": 100,
+              "descriptive_text": "We suggest you take another look at the answers and see if there is anything else the applies to you, if not, great work as it’s a good place to be if you truly feel there is nothing you would like to improve or focus on.  Make sure you keeping ‘checking in’ on yourself and always write down (even if it’s small) any areas you’d like to improve in. Be proactive in this, as it’ll ensure you keep your focus on what counts."
+            },
+            {
+              "label": "I would like to improve my class participation, though exams and tests go well I often get told I need to participate and work better with my class, be more 'involved'",
+              "score": 100,
+              "descriptive_text": "Great response, improving your class participation is a good outcome to achieve.  Your PL Curriculum will provide you with lessons around how you can ask more specific questions about areas you need help with as well as gain total clarity on the outcomes of each of your school lessons, which in turn will help you to get more involved."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "label": "How important is it for you to achieve these outcomes",
+          "answers": [
+            {
+              "label": "It is extremely important as it will get me to the next step",
+              "score": 100,
+              "descriptive_text": "Outstanding, perfect response you should be proud of yourself for feeling this way."
+            },
+            {
+              "label": "I am happy with where I am so therefore do not need to change anything",
+              "score": 100,
+              "descriptive_text": "We suggest you take another look at the answers and see if there is anything else the applies to you, if not, great work as it’s a good place to be if you truly feel there is nothing you would like to improve or focus on.  Make sure you keeping checking in on yourself and always write down (even if it’s small) any areas you’d like to improve in, be proactive in this, as it’ll ensure you keep your focus on what counts."
+            },
+            {
+              "label": "It is everything, the be all and end all",
+              "score": 25,
+              "descriptive_text": "Outstanding, perfect response you should be proud of yourself for feeling this way."
+            },
+            {
+              "label": "It is important but by no means paramount",
+              "score": 25,
+              "descriptive_text": "We are glad to hear it is important for you to achieve your outcomes, make sure you keep your enthusiasm and determination levels high, it’ll get you through any challenging times."
+            },
+            {
+              "label": "Pretty normal, not too bothered either way",
+              "score": 25,
+              "descriptive_text": "As an immediate next step, write down three things you will achieve by reaching your outcomes.  Then ask yourself how good it would feel to achieve all the outcomes, this will help you feel more compelled and motivated to get the work done and put the effort in."
+            },
+            {
+              "label": "Not important at all",
+              "score": 5,
+              "descriptive_text": "As an immediate next step, write down three things you will achieve by reaching your outcomes.  Then ask yourself how good it would feel to achieve all the outcomes, this will help you feel more compelled and motivated to get the work done and put the effort in."
+            },
+            {
+              "label": "So far on the assessment I have no outcomes to achieve",
+              "score": 100,
+              "descriptive_text": "We suggest you take another look at the answers and see if there is anything else the applies to you, if not, great work as it’s a great place too be if you truly feel there is nothing you would like to improve or focus on.  Make sure you keeping checking in on yourself and always write down (even if it’s small) any areas you’d like to improve in, be proactive in this, as it’ll ensure you keep your focus on what counts."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "label": "Tell me about times when everything has been going the way you want it to go",
+          "answers": [
+            {
+              "label": "Everything is flowing and in control",
+              "score": 100,
+              "descriptive_text": "Outstanding, this flow state you’ve chosen is often described in the sporting world as being “in the zone”, when you’re in that - state your entire biochemistry (head, heart, body) is flowing into one outcome."
+            },
+            {
+              "label": "There are no distractions from anywhere",
+              "score": 25,
+              "descriptive_text": "Distractions are everywhere and come in many forms, having the ability to block them out and create a distraction-free learning environment is absolutely essential for you to achieve your outcomes.  Getting more efficient in the way you remember information as well as working hard on your time management skills will help you get less distracted, all of this will be covered during your PL Curriculum. "
+            },
+            {
+              "label": "I'm not anywhere near as nervous or worried when things are not going well",
+              "score": 50,
+              "descriptive_text": "Great honesty, managing nerves and anxiety some say is the single most important factor in delivering excellent performance, it applies to all top performers.  Nerves and anxiety appear when you are worrying about an event in the future e.g. your exams to come or focusing on events and experiences e.g. failing an exam in the past. During your PL Curriculum you will be taught how to eliminate all triggers of nerves and anxiety, be provided with proven tools and techniques to manage them if they appear in an exam situation. Most importantly, in one of your PL Lessons you will be build your own pre-, during and -post exam routine which will not only focus on the technical side to your performance but ensure you are in the right mindset to get those results you know you can."
+            },
+            {
+              "label": "I take in and remember information very easily",
+              "score": 25,
+              "descriptive_text": "Taking in information easily comes down to about three areas that you need to focus on, which through your PL Curriculum you will have the opportunity to do so:  Area One - your state of mind when you’re working. <br>Area Two - the technique you use to retain and recall information. <br>Area Three - how you manage your workload on a weekly basis.<br>"
+            },
+            {
+              "label": "I feel I can reach and achieve my goals",
+              "score": 25,
+              "descriptive_text": "Great response, it is clear you have goals you want to achieve; you’re already ahead of most.  The key now is to ensure your weekly efforts are in line with the work required to achieve your goals and your skill levels are high enough to get you there.  This will involve a combination of careful planning, weekly ‘checking in’ and acquiring the skills you need to reach your goals; all of which will be covered through your PL Curriculum."
+            },
+            {
+              "label": "I am turning up to school more than normal",
+              "score": 25,
+              "descriptive_text": "It’s good of you to notice that you need to show up more then you are. If you don’t show up - you don’t have any chance to turn your performance around.  By showing up, you are giving yourself the opportunity you deserve to progress in school and fulfil your true potential.  Often you can feel like not turning up because you feel like you’re not progressing and getting the results you deserve. By being on the PL Curriculum - you will build a set of skills that will make school easier for you. Just by making improvements in your memory - you will notice results in your work - so give it chance, you deserve."
+            },
+            {
+              "label": "I feel I have more energy and I am not as tired as normal",
+              "score": 25,
+              "descriptive_text": "We are sorry to hear this, at first instance it appears you are struggling from Sleep deprivation.  You’re most likely either finding it hard to sleep early or are waking up throughout the night; sleep deprivation can cause you to feel really rough, it is important you don’t “over think” this, during your PL Curriculum you will given our PL Sleep Plan which will help alleviate this challenge, you will also be taught how to become a more efficient learner, be given the ability to retain and recall a lot more information in a shorter period of time which will help you too feel less overwhelmed and more in control of your school."
+            },
+            {
+              "label": "Everyone believes in me",
+              "score": 25,
+              "descriptive_text": "We all know that when people believe in us everything appears easier, however true, sustainable performance comes from us believing in ourselves, especially at times when we are doubting ourselves.  Through the PL Curriculum you will take part in lessons, which are geared towards building your internal resilience, increasing your focus (especially around challenging times at school) and be taught core skills to help you boost your results and grades.  Remember true champions believe in themselves even when others doubt."
+            },
+            {
+              "label": "Nothing has gone right for me",
+              "score": 5,
+              "descriptive_text": "We’re sorry to hear this, it’s time to turn things around and get the results you not only want but also deserve.  During your PL Curriculum you will be given the opportunity look at your entire academic performance, take each subject and set your goals for them as well as be taught core skills to help you boost your results and grades.  "
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "label": "What are your strengths as a person in relation to your academic performance",
+          "answers": [
+            {
+              "label": "I believe I can do it and that I have the ability",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up your great progress"
+            },
+            {
+              "label": "When it comes to it, I can work hard",
+              "score": 50,
+              "descriptive_text": "Outstanding work, keep up your great progress"
+            },
+            {
+              "label": "I am committed",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up your great progress"
+            },
+            {
+              "label": "I can take in information well",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up your great progress.  During your PL Curriculum you will spend a lot of time being trained on how to recall the information you are so good at taking in."
+            },
+            {
+              "label": "I can recall information well",
+              "score": 75,
+              "descriptive_text": "Outstanding work, keep up your great progress"
+            },
+            {
+              "label": "Not too sure about my strengths as a person as I have never really thought about it",
+              "score": 25,
+              "descriptive_text": "Great honesty, thinking about your strengths is often not easy. As a first step, write down the response to this question, as it will help you get prepared for your PL Curriculum: “What do you find easy to do in school, what do you do well in?”"
+            },
+            {
+              "label": "I have noticed I am good at both English and Maths based subjects, I can solve problems and write essays with little difficulty",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up your great progress"
+            },
+            {
+              "label": "I feel I have no strengths at all, only weaknesses",
+              "score": 5,
+              "descriptive_text": "Thank you for your honesty. Feeling like you have no strengths at all is not an easy place to be and we understand you may be under a lot of stress and feel like school is a big challenge right now.  During your PL Curriculum you will see just how many strengths you have. Often at times it’s about how information is presented to you as opposed to your ability to understand information. You will be taught skills to massively boost your memory in a fun and easy way, as well as gaining control of any nerves or anxiety you may feel towards tests and exams.  ‘Hang in’ there, it’s not as difficult as it can appear at times, with the right skills you’ll learn through PL -2 and you will propel your performance."
+            },
+            {
+              "label": "I enjoy thinking my way through problems in my own time, creative problem solving and thinking outside the box is what motivates me the most",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up your great progress"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "label": "How do you cope with pressure?",
+          "answers": [
+            {
+              "label": "I thrive on it",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up your great progress"
+            },
+            {
+              "label": "I do not let it bother me, I can survive under it",
+              "score": 75,
+              "descriptive_text": "Outstanding work, keep up your great progress"
+            },
+            {
+              "label": "It distracts me",
+              "score": 25,
+              "descriptive_text": "Great work in noticing that when under pressure you feel distracted, good honesty.  During your PL Curriculum you will learn how to prevent yourself from getting distracted by learning how to access what top athletes refer to as “the zone”. You will also learn how to recognize high-pressure situations and work early on so you can prepare for it and manage it."
+            },
+            {
+              "label": "I hate pressure",
+              "score": 5,
+              "descriptive_text": "Great work in noticing that when under pressure you feel distracted, good honesty.  During your PL Curriculum you will learn how to prevent yourself from getting distracted by learning how to access what top athletes refer to as “the zone”. You will also learn how to recognize high-pressure situations and work early on so you can prepare for it and manage it."
+            },
+            {
+              "label": "I cannot cope under pressure and begin to panic",
+              "score": 25,
+              "descriptive_text": "Great work in noticing that when under pressure you feel distracted, good honesty.  During your PL Curriculum you will learn how to prevent yourself from getting distracted by learning how to access what top athletes refer to as “the zone”. You will also learn how to recognize high-pressure situations and work early on so you can prepare for it and manage it."
+            },
+            {
+              "label": "I am constantly numb so I don't really feel anything",
+              "score": 5,
+              "descriptive_text": "We’re sorry to learn that there are times you don’t feel school is right for you. It’s important that if this feeling gets stronger  - you seek help and advice from a member of the school’s inclusion or support team.  <br>Your PL Curriculum will teach you how to make improvements in your academic work, which will boost your ability to retain and recall information, improve your energy levels, give you a structured plan to manage your time and help you manage any nerves or anxiety you may feel from time to time. Your PL Curriculum will run alongside your school lessons to ensure all of your work is relevant - helps you to improve on your results and therefore increases your confidence towards your school work.<br>We’re sorry to learn that there are times you don’t feel school is right for you. It’s important that if this feeling gets stronger  - you seek help and advice from a member of the school’s inclusion or support team.  <br>Your PL Curriculum will teach you how to make improvements in your academic work, which will boost your ability to retain and recall information, improve your energy levels, give you a structured plan to manage your time and help you manage any nerves or anxiety you may feel from time to time. Your PL Curriculum will run alongside your school lessons to ensure all of your work is relevant - helps you to improve on your results and therefore increases your confidence towards your school work.<br>We’re sorry to learn that there are times you don’t feel school is right for you. It’s important that if this feeling gets stronger  - you seek help and advice from a member of the school’s inclusion or support team.  <br>Your PL Curriculum will teach you how to make improvements in your academic work, which will boost your ability to retain and recall information, improve your energy levels, give you a structured plan to manage your time and help you manage any nerves or anxiety you may feel from time to time. Your PL Curriculum will run alongside your school lessons to ensure all of your work is relevant - helps you to improve on your results and therefore increases your confidence towards your school work.<br>We’re sorry to learn that there are times you don’t feel school is right for you. It’s important that if this feeling gets stronger  - you seek help and advice from a member of the school’s inclusion or support team.  <br>Your PL Curriculum will teach you how to make improvements in your academic work, which will boost your ability to retain and recall information, improve your energy levels, give you a structured plan to manage your time and help you manage any nerves or anxiety you may feel from time to time. Your PL Curriculum will run alongside your school lessons to ensure all of your work is relevant - helps you to improve on your results and therefore increases your confidence towards your school work.<br>"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "label": "How do you mostly feel in class?",
+          "answers": [
+            {
+              "label": "Tired",
+              "score": 25,
+              "descriptive_text": "We are sorry to hear this, at first instance it appears you are struggling from Sleep deprivation.  You’re most likely either finding it hard to sleep early or are waking up throughout the night; sleep deprivation can cause you to feel really rough, it is important you don’t “over think” this. During your PL Curriculum, you will be given our PL Sleep Plan, which will help alleviate this challenge. You will also be taught how to become a more efficient learner, be given the ability to retain and recall a lot more information in a shorter period of time, which will help you to feel less overwhelmed and more in control of your school"
+            },
+            {
+              "label": "Bored",
+              "score": 25,
+              "descriptive_text": "Boredom often occurs through: 1) lack of stimulation 2) participation or 3) early stages of burn out. It is important for you to find out which one it is (and it can be a combination of all three).  Your immediate next step, prior to your PL Curriculum is to write down the answers to the following questions:<br><br>1. When was the last time I felt interested and motivated to learn?<br>2. What was different then?  What’s changed?<br>3. For the next two weeks in class, what can I do differently? What has to change in order for me to feel less bored and more motivated and interested in what I am being taught?<br><br>Bring these answers to your first PL Lesson and share them with your PL Teacher.<br>"
+            },
+            {
+              "label": "Distracted",
+              "score": 25,
+              "descriptive_text": "Great honesty, one of the core reasons why you get distracted is more of a technical one then a behavioural one. During your PL Curriculum you will be taught how to take effective notes in class, how to maintain your focus when the teacher is teaching challenging material and how to retain and recall what you’ve been taught in class. Learning these crucial skills will help you greatly in maintaining your focus in class as well retaining what you’re being taught."
+            },
+            {
+              "label": "Active and alert",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up your great progress"
+            },
+            {
+              "label": "Motivated and interested to learn",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up your great progress"
+            },
+            {
+              "label": "Frustrated and angry",
+              "score": 5,
+              "descriptive_text": "Great honesty. One of the core reasons why you may be getting frustrated and angry is more of a technical one then a behavioural one. During your PL Curriculum you will be taught how to take effective notes in class, how to maintain your focus when the teacher is teaching challenging material and how to retain and recall what you’ve been taught in class. You’ll also be taught how to manage your nerves and anxiety as well as control your stress levels.  Learning these crucial skills will help you greatly in maintaining your focus in class as well retaining what you’re being taught.<br>If your feeling of anger and frustration continues through your PL Curriculum it’s important that you seek help and advice from a member of the school’s inclusion or support team.<br>"
+            },
+            {
+              "label": "I find it hard to sit still, often make silly mistakes with my work",
+              "score": 5,
+              "descriptive_text": "Great honesty, making silly mistakes with your work comes down to technique, while a lot of guidance can be given around checking your work thoroughly -taking your time over questions, often under pressure or when you’re tired isn’t easy (or fun) to do. Therefore, during your PL Curriculum you will be taught how to check your work within time limits. In addition to this, the PL  ‘on the go’, short, sharp, high intensity bursts of focus along with PL’s Exam Management and Exam Paper Tools Techniques will assist you in eliminating careless, silly mistakes for good."
+            },
+            {
+              "label": "I can't focus at all for very long, teachers will tell me something and instantly I forget",
+              "score": 5,
+              "descriptive_text": "Great honesty, one of the core reasons why you get distracted is more of a technical one then a behavioural one. During your PL Curriculum, you will be taught how to take effective notes in class, how to maintain your focus when the teacher is teaching challenging material and how to retain and recall what you’ve been taught in class. Learning these crucial skills will help you greatly in maintaining your focus in class as well retaining what you’re being taught."
+            },
+            {
+              "label": "Totally distant ",
+              "score": 5,
+              "descriptive_text": "We’re sorry to learn that there are times you don’t feel school is right for you, it’s important that if this feeling gets stronger you seek help and advice from a member of the school’s inclusion or support team. <br>Often feeling distant in class can occur from a lack of interest in what you’re being taught. This can be due to personal reasons, lack of improvement in your work, sleep deprivation and tiredness or a combination of all.  During your PL Curriculum you will be given a great opportunity to address this area and be provided with the skills to turn your performance around. ‘Hang in there’, we know things right now can appear overwhelming and challenging.<br>"
+            },
+            {
+              "label": "I enjoy getting involved in class, especially in group discussion and presentations",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up your great progress"
+            },
+            {
+              "label": "I enjoy working with my friends in class, I like to motivate people and help as much as I can",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up your great progress"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "label": "Time Management",
+      "style": {
+        "colour": "secondary-blue2",
+        "icon": "time"
+      },
+      "is_active": true,
+      "questions": [
+        {
+          "id": 9,
+          "label": "Tell me about how organised you are ",
+          "answers": [
+            {
+              "label": "I am extremely organised; I hate not being organised.  I plan everything the night before and ensure my homework is always completed and handed in ahead of schedule",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up the great progress.  During your PL Curriculum you will be provided with a structure to manage your time, which may help you. Ensure you stick to it at least 90% of the time.  Prior to commencing your PL Curriculum - please write down the answer to the following question and show your PL Teacher the response:<br>1.  What has to happen in order for me to not stick to my list?<br>"
+            },
+            {
+              "label": "I have a weekly diary in which I record my commitments such as classes and work hours however though I am good at writing it all down, I struggle at times to stick to it",
+              "score": 100,
+              "descriptive_text": "Great honesty here, well done. The core challenge it appears you are facing here is a combination of motivation and skill. During your PL Curriculum - it is important you look at (through the PL Framework you will be taught) what causes the need to have to be pushed a lot to be more organised. You will be provided with the PL Quadrant, which will make being organised a lot easier and a lot less stressful then it currently may be for you.  Stay motivated, it’s clear you have the ability."
+            },
+            {
+              "label": "If someone pushes me then I'll be organised but if you leave it up to me I probably won't get much work done, I find I need to be pushed a lot",
+              "score": 25,
+              "descriptive_text": "Great honesty here, well done. The core challenge it appears you are facing here is a combination of motivation and skill. During your PL Curriculum - it is important you look at (through the PL Framework you will be taught) what causes the need to have to be pushed a lot to be more organised. You will be provided with the PL Quadrant, which will make being organised a lot easier and a lot less stressful then it currently may be for you.  Stay motivated, it’s clear you have the ability."
+            },
+            {
+              "label": "I am good at being organised in the subjects I am good at and enjoy, the subjects I am weak in or do not enjoy I am not organised in",
+              "score": 50,
+              "descriptive_text": "Great honesty. It is important for you to know that you are not facing a time management challenge here; you are facing a skillset challenge in the subjects you are weak in.  If you ask yourself; “what makes me good in the subjects I enjoy?” You will find the following few traits: “I remember more”, “I find I naturally understand more”, “it comes more easily to me” etc. There will be a lot more reasons.  During your PL Curriculum you will be taught the core skills you need to improve in the subjects you’re currently weak or struggling in. Once you’ve learned, practiced and feel confident in these skills, you will be given a PL Time Management Plan to help you become great at organizing yourself in all of your subjects, not just your strong ones."
+            },
+            {
+              "label": "I am really disorganised and wouldn't know where to even begin to get organised",
+              "score": 25,
+              "descriptive_text": "During your PL Curriculum you will be taught the core skills you need - to improve in the subjects you’re currently weak or struggling in. You will also be taught how to manage your stress and anxiety levels and therefore you will be better able to prevent yourself from feeling overwhelmed. Once you’ve learned, practiced and feel confident in these skills, you will be given a PL Time Management Plan to help you become great at organising yourself in all of your subjects, not just your strong ones."
+            },
+            {
+              "label": "I hardly hear instructions when they are given to me so I am disorganised",
+              "score": 5,
+              "descriptive_text": "During your PL Curriculum you will be taught the core skills you need to improve  - in the subjects you’re currently weak or struggling in. Once you’ve learned, practiced and feel confident in these skills, you will be given a PL Time Management Plan to help you become great at organising yourself in all of your subjects, not just your strong ones."
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "label": "Tell me about how you complete work ",
+          "answers": [
+            {
+              "label": "I like to do things in order of priority and importance, I usually list it all out before I begin the work and then gradually get through my list",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up your great progress."
+            },
+            {
+              "label": "I always assess my working hours based on my grades and goals, if I am slipping behind then I will do more work to catch up",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up your great progress. The more you progress through your academic journey, it is important you do everything you can to avoid having to catch up (sometimes this is unavoidable). During your PL Curriculum you will be taught the PL Quadrant. This will help you to build a weekly time management plan that will be easy to stick to and ensure you continuously stay on top of work to avoid unnecessary slips."
+            },
+            {
+              "label": "I find myself rushing to meet deadlines, I don't hand in homework late but it is always a last minute panic to get it completed",
+              "score": 25,
+              "descriptive_text": "The more you progress through your academic journey, it is important you do everything you can to avoid having to catch up (sometimes this is unavoidable). During your PL Curriculum you will be taught the PL Quadrant, which will help you to build a weekly time management plan that will be easy to stick to and ensure you continuously stay on top of work to avoid unnecessary slips."
+            },
+            {
+              "label": "I somehow can never predict how long something is going to take to finish, I always think it takes less time but when I come to doing it I find it takes me a lot longer then I originally thought to complete",
+              "score": 25,
+              "descriptive_text": "The more you progress through your academic journey, it is important you do everything you can to avoid having to catch up (sometimes this is unavoidable). During your PL Curriculum - you will be taught the PL Quadrant and this will help you to build a weekly time management plan that will be easy to stick to and ensure you continuously stay on top of work to avoid unnecessary slips.  Secondly you will dive deep into the science and strategies to accurately assess how long your work takes, from subject specific time management analysis to planning your exams."
+            },
+            {
+              "label": "I am always late, homework is rarely handed in on time and often I get told off for late deliveries of work.  I find myself procrastinating over work that needs to be done ",
+              "score": 5,
+              "descriptive_text": "The more you progress through your academic journey, it is important you do everything you can to avoid having to catch up (sometimes this is unavoidable). During your PL Curriculum - you will be taught the PL Quadrant and this will help you to build a weekly time management plan that will be easy to stick to and ensure you continuously stay on top of work to avoid unnecessary slips.  Secondly you will dive deep into the science and strategies to accurately assess how long your work takes, from subject specific time management analysis to planning your exams."
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "label": "Tell me about your environment where you work and a little more on how you work ",
+          "answers": [
+            {
+              "label": "I like to work in a quiet environment with no distractions, I prefer to work alone rather then in groups and I am good at not getting distracted by my phone or social media (or any other interruptions)",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up your great progress."
+            },
+            {
+              "label": "I prefer to work in groups rather than alone, I'd rather discuss and debate about a subject than sit alone and do it.  I much prefer workshop type environments",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up your great progress."
+            },
+            {
+              "label": "I can't work anywhere as it is very loud at home and I cannot focus ",
+              "score": 5,
+              "descriptive_text": "Building an empowering, noise free atmosphere for you to work in is essential.  Decisions have to be made by you now as to where you can work best. During your PL Curriculum you will be taught the skills you need to progress your current academic level.  As an immediate next step, perform the following exercise:<br><br>1. Write down your ideal working environment (go into detail)<br><br>- Where is it?<br>- What’s not present?<br><br>Bring the response to your PL Teacher when you start your PL Curriculum.<br>"
+            },
+            {
+              "label": "I get distracted a lot by my phone and social media when I work, I find it difficult to turn everything off and focus purely on work",
+              "score": 25,
+              "descriptive_text": "Building an empowering, distraction free atmosphere for you to work in is essential.  Decisions have to be made by you now to set aside your phone and social media. During your PL Curriculum you will be taught the skills you need to progress your current academic level.  As an immediate next step, list answers to the following:<br>1. Why do you feel the need to pick up your phone (go into detail)?<br>2. What would happen if you didn’t?<br>Bring the response to your PL Teacher when you start your PL Curriculum.<br><br>"
+            },
+            {
+              "label": "I break difficult and complicated tasks into bite size, digestible work so I don't feel overwhelmed ",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up your great progress."
+            },
+            {
+              "label": "The more work I get given the more overwhelmed, anxious and stressed I feel.  I find it difficult to manage all subjects especially as the work for each subject is different",
+              "score": 25,
+              "descriptive_text": "Great honesty, thank you.  Each subject requires slightly different skills to manage your time, you will be taught this during your PL Curriculum.  The most important element however in your ability to manage your time comes down to building up your levels of resilience. As you progress through your academic journey  -the quantity of work you will be given and it’s complexity will increase therefore placing more (natural) strain on you.  Alongside being taught the skills to manage your time effectively, you will be taught how to manage your stress and anxiety levels, how to prevent being overwhelmed by better planning. You will also be helped to develop your skills around increasing your capacity and capability to retain and recall more information."
+            },
+            {
+              "label": "Even if the work given to me is easy I still find it difficult to complete",
+              "score": 5,
+              "descriptive_text": "Great honesty, thank you.  Finding work difficult to complete often comes down to the way you process and break information into digestible chunks, something you will be taught how to do during your PL Lessons.  You may find yourself at times feeling overwhelmed as a result of not being able to complete your work. Therefore during your PL Curriculum, you will be taught how to not only break down your work in digestible chunks but also how to manage and eventually eliminate the stress, tension and pressure you may feel from time to time when it comes to completing work."
+            },
+            {
+              "label": "I can work on my own and in groups, it makes no difference to my overall grade as I will focus 100% either way",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up your great progress."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "label": "Retention & Recollection",
+      "style": {
+        "colour": "secondary-orange1",
+        "icon": "library"
+      },
+      "is_active": true,
+      "questions": [
+        {
+          "id": 12,
+          "label": "Tell me about your memory",
+          "answers": [
+            {
+              "label": "I am better at remembering facts, formula and figures but not that good at remembering large pieces of text and chunks of information",
+              "score": 100,
+              "descriptive_text": "Great answer, remember facts and formula v remembering large texts and pieces of information, requires a totally different skill set.  During your PL Curriculum you will be taught the essential skills to get better at remembering large texts and pieces of information. Our PL Chunking, PL Note taking and page structuring skills will help you enormously - so get ready to get very good at this."
+            },
+            {
+              "label": "I am better at remembering large pieces of text and chunks of information but not that good at remembering facts, formula and figures",
+              "score": 100,
+              "descriptive_text": "Great answer, remember facts and formula v remembering large texts and pieces of information requires as totally different skillset.  During your PL Curriculum you will be taught the essential skills to get better at remembering facts, formulas and figures.  Your PL Lessons around the PL Rules for facts and figures, the PL Association skill set around remembering formulas will assist you greatly - so get ready to get very good at this."
+            },
+            {
+              "label": "I can remember both facts, formula and figures as well as large pieces of text if I am calm, not anxious and my nerves are in control",
+              "score": 75,
+              "descriptive_text": "Great honesty, managing nerves and anxiety some say is the single most important factor in delivering excellent performance, it applies to all top performers.  Nerves and anxiety appear when you are worrying about an event in the future e.g. your exams to come or focusing on negative events and experiences. During your PL Curriculum you will be taught how to eliminate all triggers of nerves and anxiety and you will be provided with proven tools and techniques to manage them. Most importantly, in one of your PL Lessons you will be build your own pre-, during and     -post exam routine, which will not only focus on the technical side to your performance but ensure you are in the right mindset to get the results you know you can."
+            },
+            {
+              "label": "When I try and memorise something I find it difficult because my attention goes, I can'¢t stay focused or concentrate that hard",
+              "score": 25,
+              "descriptive_text": "Great honesty. Keeping your concentration levels high through your work is absolutely critical to maintaining your quality and skillset.  The work you will do to improve this through your PL Curriculum, has been developed through years of modelling to top athletes, specifically how they selectively place their energy and focus at key moments.  During your PL Lessons you will be provided with not only the PL Skills on retaining and recollecting information but be given a framework on how to manage your concentration levels and keep your focus high for short, sharp bursts. Get ready, as your focus and concentration levels will ‘sky rocket’. "
+            },
+            {
+              "label": "My memory is really bad, I forget things all the time and really struggle to memorise any of my work. I feel really overwhelmed when I have a lot to learn ",
+              "score": 5,
+              "descriptive_text": "Thank you for honesty. We understand that this can be incredibly frustrating.  There are three areas of focus we would like to draw your attention too:<br>1. Preventing you from feeling overwhelmed when you have lots to learn <br>2. Building up your skill set around retaining and recalling information <br>3. Making it all a lot easier<br>It is important you remain calm. During your PL Curriculum you will be taught exactly the skills to produce the three outcomes listed above.<br>"
+            },
+            {
+              "label": "I find I have the ability to remember all my subjects well, I have different methods for different subjects and they work well",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up your great progress.  Please make a list of your methods and share them with your PL Teacher."
+            },
+            {
+              "label": "I can remember things well but I have to go over it lots of times in order for it to stick. Once it’s ‘in’ then I hardly forget",
+              "score": 75,
+              "descriptive_text": "Outstanding work, keep up your great progress.  During your PL Curriculum you will be taught PL MEM1, which is a skill that will help you reduce the amount you need to “go over and over”. It’s important for you to learn this skill as you progress through your academic journey, the quantity of information you’ll need to retain will only increase – therefore, it’s important to find a way to remember increasing amounts of information using a simple strategy.   "
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "label": "When you read a textbook or anything you need to memorise, which of the following do you find happening to you? ",
+          "answers": [
+            {
+              "label": "I forget once I have finished reading the text what the text was about and what I read",
+              "score": 25,
+              "descriptive_text": "Great honesty, thank you.  Building your reading resilience is a core part of the work you will be doing during your PL Curriculum. In order for you to succeed through education it is critical you become a strong reader. As you progress through your academic journey, the amount of information you will need to read will increase year on year, therefore having the following skills, all of which will be taught to you during your PL Lessons - will serve you greatly:<br>1. Increase your focus while you read<br>2. Breakdown complex sentence into bite size chunks<br>3. Retain and recall while you read (yes you will be taught how to memories while you read)<br>4. Increase your retention time span, it’ll stay ‘in ther’ for longer <br>5. Read, speak, process, interpret and recall simultaneously <br>Get ready; you will really enjoy this part of your PL Curriculum.<br>"
+            },
+            {
+              "label": "3-4 paragraphs into reading it I forget what I am reading and loose interest",
+              "score": 25,
+              "descriptive_text": "Great honesty, thank you.  Building your reading resilience is a core part of the work you will be doing during your PL Curriculum. In order for you to succeed through education, it is critical you become a strong reader. As you progress through your academic journey, the amount of information you will need to read will increase year on year, therefore having the following skills, all of which will be taught to you during your PL Lessons  - will serve you greatly:<br>1. Increase your focus while you read<br>2. Breakdown complex sentence into bite size chunks<br>3. Retain and recall while you read (yes you will be taught how to memorise while you read)<br>4. Increase your retention time span, it’ll stay “in there” for longer <br>5. Read, speak, process, interpret and recall simultaneously <br>Get ready; you will really enjoy this part of your PL Curriculum.<br>"
+            },
+            {
+              "label": "As soon as I move onto the next paragraph I forget what I read in the previous paragraph",
+              "score": 25,
+              "descriptive_text": "Great honesty, thank you.  Building your reading resilience is a core part of the work you will be doing during your PL Curriculum. In order for you to succeed through education, it is critical you become a strong reader. As you progress through your academic journey - the amount of information you will need to read will increase year on year, therefore having the following skills, all of which will be taught to you during your PL Lessons - will serve you greatly:<br>1. Increase your focus while you read<br>2. Breakdown complex sentence into bite size chunks<br>3. Retain and recall while you read (yes you will be taught how to memories while you read)<br>4. Increase your retention time span, it’ll stay “in there” for longer <br>5. Read, speak, process, interpret and recall simultaneously <br>Get ready; you will really enjoy this part of your PL Curriculum.<br>"
+            },
+            {
+              "label": "Even only reading a few sentences, I have forgotten what I have read and have to go back over them",
+              "score": 25,
+              "descriptive_text": "Great honesty, thank you.  Building your reading resilience is a core part of the work you will be doing during your PL Curriculum. In order for you to succeed through education it is critical you become a strong reader. As you progress through your academic journey, the amount of information you will need to read will increase year on year, therefore having the following skills, all of which will be taught to you during your PL Lessons - will serve you greatly:<br>1. Increase your focus while you read<br>2. Breakdown complex sentence into bite size chunks<br>3. Retain and recall while you read (yes you will be taught how to memories while you read)<br>4. Increase your retention time span, it’ll stay “in there” for longer <br>5. Read, speak, process, interpret and recall simultaneously <br>Get ready; you will really enjoy this part of your PL Curriculum.<br>"
+            },
+            {
+              "label": "The sentence before the one I am reading I have already forgotten",
+              "score": 25,
+              "descriptive_text": "Great honesty, thank you.  Building your reading resilience is a core part of the work you will be doing during your PL Curriculum. In order for you to succeed through education it is critical you become a strong reader. As you progress through your academic journey, the amount of information you will need to read will increase year on year, therefore having the following skills, all of which will be taught to you during your PL Lessons - will serve you greatly:<br>1. Increase your focus while you read<br>2. Breakdown complex sentence into bite size chunks<br>3. Retain and recall while you read (yes you will be taught how to memories while you read)<br>4. Increase your retention time span, it’ll stay “in there” for longer <br>5. Read, speak, process, interpret and recall simultaneously <br>Get ready; you will really enjoy this part of your PL Curriculum.<br>"
+            },
+            {
+              "label": "A. I can’t even get through the first words, I blank out or my mind wanders onto other things so quickly ",
+              "score": 5,
+              "descriptive_text": "Great honesty, thank you.  Building your reading resilience is a core part of the work you will be doing during your PL Curriculum. In order for you to succeed through education it is critical you become a strong reader. As you progress through your academic journey, the amount of information you will need to read will increase year on year, therefore having the following skills, all of which will be taught to you during your PL Lessons - will serve you greatly:<br>1. Increase your focus while you read<br>2. Breakdown complex sentence into bite size chunks<br>3. Retain and recall while you read (yes you will be taught how to memories while you read)<br>4. Increase your retention time span, it’ll stay “in there” for longer <br>5. Read, speak, process, interpret and recall simultaneously <br>Get ready; you will really enjoy this part of your PL Curriculum.<br>"
+            },
+            {
+              "label": "None of the above I am fine all the way through",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up your great progress."
+            },
+            {
+              "label": "I can read all the way through without losing focus and remember at least 70% of what I have read",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up your great progress."
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "label": "Out of the following what is the one thing you would like to change about your ability to recall and remember information?",
+          "answers": [
+            {
+              "label": "Remember it faster without having to think as much",
+              "score": 25,
+              "descriptive_text": "Great response, in order for you to remember information faster without having to think as much - you will work on the following during your PL Curriculum:<br>Learn how to:<br>1. Retain and recall information while you read it<br>2. Decrease the amount of information on the page but increase your understanding of the information once you’ve retained it<br>3. Chunk information based on PL’s chunking skills<br>4. Perform to the test of acquired information, in the first 30 days<br>The above four areas will be a strong focus point for you, Your PL Teacher will teach you how to develop these core PL Skills as you progress through your PL Curriculum.<br>"
+            },
+            {
+              "label": "Not to doubt myself on whether I know it or not",
+              "score": 25,
+              "descriptive_text": "Great response. In order for you to remember information faster without having to think as much - you will work on the following during your PL Curriculum:<br>Learn how to:<br>1. Retain and recall information while you read it<br>2. Decrease the amount of information on the page but increase your understanding of the information once you’ve retained it<br>3. Chunk information based on PL’s chunking skills<br>4. Perform to the test of acquired information, in the first 30 days<br>5. Reducing self-doubt by continuous practice frameworks<br>The above five areas will be a strong focus point for you, your PL Teacher will teach you how to develop these core PL Skills as you progress through your PL Curriculum.<br>"
+            },
+            {
+              "label": "Have the ability to remember different subjects with ease",
+              "score": 25,
+              "descriptive_text": "Great response, in order for you remember information faster without having to think as much you will work on the following during your PL Curriculum:<br>Learn how to:<br>1. Retain and recall information while you read it<br>2. Decrease the amount of information on the page but increase your understanding of the information once you’ve retained it<br>3. Chunk information based on PL’s chunking skills<br>4. Perform to the test of acquired information, in the first 30 days<br>5. Use PL’s Multiple subject retention framework <br>The above five areas will be a strong focus point for you, your PL Teacher will teach you how to develop these core PL Skills as you progress through your PL Curriculum.<br>"
+            },
+            {
+              "label": "Learn lots of information in a short space of time",
+              "score": 25,
+              "descriptive_text": "Great response, in order for you to remember information faster without having to think as much - you will work on the following during your PL Curriculum:<br>Learn how to:<br>1. Retain and recall information while you read it<br>2. Decrease the amount of information on the page but increase your understanding of the information once you’ve retained it<br>3. Chunk information based on PL’s chunking skills<br>4. Perform to the test of acquired information, in the first 30 days<br>The above four areas will be a strong focus point for you, your PL Teacher will teach you how to develop these core PL Skills as you progress through your PL Curriculum.<br>"
+            },
+            {
+              "label": "Go from learning facts and figures to theory and text with little difficulty",
+              "score": 100,
+              "descriptive_text": "Great answer! Remember facts and formula v remembering large texts and pieces of information - requires a totally different skill set.  During your PL Curriculum you will be taught the essential skills to get better at remembering large texts and pieces of information. Our PL Chunking, PL Note Taking and PL Page Structuring Skills will help you enormously. You will then be taught the essential skills to get better at remembering facts, formulas and figures.  Your PL Lessons around the PL Rules for facts and figures, the PL Association skillset around remembering formulas will assist you greatly so get ready to get very good at this."
+            },
+            {
+              "label": "I've never remembered anything well my whole life so I would like to start slowly and build up my memory ",
+              "score": 5,
+              "descriptive_text": "Thank you for your honesty. We understand that remembering information can be a challenge for you. Your first and most immediate step is to separate the emotional stress it can cause to the technical development you will be going through during your PL Curriculum.  It’s fantastic you’ve stated that you would like to start slowly and build up, please find below four critical areas you will develop through your PL Curriculum:<br> Learn how to:<br>1. Retain and recall information while you read it<br>2. Decrease the amount of information on the page but increase your understanding of the information once you’ve retained it<br>3. Chunk information based on PL’s chunking skills<br>4. Perform to the test of acquired information, in the first 30 days<br>"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "label": "What about during exams or tests? ",
+          "answers": [
+            {
+              "label": "I have no issues at all with my memory during tests and exams, I am fine all the way through and can recall information well",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up your great progress"
+            },
+            {
+              "label": "If I have planned and structured my revision well I remember information much better then if I haven’t",
+              "score": 75,
+              "descriptive_text": "Outstanding work, keep up your great progress"
+            },
+            {
+              "label": "For the first 5-10 minutes of a test or exam, my mind goes blank and I can’t remember anything ",
+              "score": 50,
+              "descriptive_text": "Great honesty and it’s extremely good of you to be aware that this happens in a test or an exam. Often this occurs due to nerves and anxiety kicking in.  Nerves and anxiety cause changes in your body’s biochemistry. You start to develop a “fight” or “flight” response e.g. stress and frustration because you can’t remember or you have detachment and lack of caring because it’s too overwhelming.  <br>During your PL Curriculum you will be taught clear pre-, during and -post exam routines, which will help you to not blank out in tests and exams.  Remember your memory is linked to your emotional state of mind, your focus determines your behaviour and your feelings determine your focus.<br>"
+            },
+            {
+              "label": "A. If I am feeling confident then my memory is good, if not, then I get anxious and worry about whether I will be able to remember what I’ve learned",
+              "score": 25,
+              "descriptive_text": "Great honesty and it’s extremely good of you to be aware that this happens in a test or an exam, often this occurs due to nerves and anxiety kicking in.  Nerves and anxiety cause changes in your body’s biochemistry. You start to develop a “fight” or “flight” response e.g. stress and frustration because you can’t remember or you have detachment and lack of caring because it’s too overwhelming.  <br>During your PL Curriculum you will be taught clear pre-, during and -post exam routines, which will help you to maintain consistency throughout the exam.  Remember your memory is linked to your emotional state of mind, your focus determines your behaviour and your feelings determine your focus.<br>"
+            },
+            {
+              "label": "I've often found that my memory comes back towards the end of an exam or test",
+              "score": 25,
+              "descriptive_text": "Great honesty and it’s extremely good of you to be aware that this happens in a test or an exam, often this occurs due to nerves and anxiety kicking in.  Nerves and anxiety cause changes in your body’s biochemistry. You start to develop a “fight” or “flight” response e.g. stress and frustration because you can’t remember or you have detachment and lack of caring because it’s too overwhelming.  <br>During your PL Curriculum you will be taught clear pre-, during and -post exam routines, which will help you to maintain consistency throughout the exam.  Remember your memory is linked to your emotional state of mind, your focus determines your behaviour and your feelings determine your focus.<br>"
+            },
+            {
+              "label": "Be able to stop my mind from wondering every few seconds so I focus on the test or exam",
+              "score": 5,
+              "descriptive_text": "Great honesty and it’s extremely good of you to be aware that this happens in a test or an exam, often this occurs due to nerves and anxiety kicking in.  Nerves and anxiety cause changes in your body’s biochemistry. You start to develop a “fight” or “flight” response e.g. stress and frustration because you can’t remember or you have detachment and lack of caring because it’s too overwhelming.  <br>During your PL Curriculum you will be taught clear pre-, during and -post exam routines, which will help you to maintain consistency throughout the exam.  Remember your memory is linked to your emotional state of mind, your focus determines your behaviour and your feelings determine your focus.<br>"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "label": "When it comes to remembering what you’ve learned, do you find any of the following scenarios taking place?",
+          "answers": [
+            {
+              "label": "My mind goes blank completely",
+              "score": 25,
+              "descriptive_text": "Thank you for your response. Channelling your focus so your mind thinks only about the task at hand, does not blank or wander off whilst you feel anxious  - is a critical step forward that you need to take, not only in your education but also in life.   During your PL Lessons, especially during your PL MEM1-4 modules - all the work you will do and the skills you will be taught around information retention and recollection will ensure you prevent this from taking place. Your mind does all of this, knowing exactly how to regain your focus and reduce your anxiety."
+            },
+            {
+              "label": "I remember for a few minutes but then my mind starts to wander",
+              "score": 25,
+              "descriptive_text": "Thank you for your response. Channelling your focus so your mind thinks only about the task at hand, does not blank or wander off whilst you feel anxious  - is a critical step forward that you need to take, not only in your education but also in life.   During your PL Lessons, especially during your PL MEM1-4 modules - all the work you will do and the skills you will be taught around information retention and recollection will ensure you prevent this from taking place. Your mind does all of this, knowing exactly how to regain your focus and reduce your anxiety."
+            },
+            {
+              "label": "I doubt myself and feel nervous even though I know what I’ve learned",
+              "score": 25,
+              "descriptive_text": "Thank you for your response. Channelling your focus so your mind thinks only about the task at hand, does not blank or wander off whilst you feel anxious  - is a critical step forward that you need to take, not only in your education but also in life.   During your PL Lessons, especially during your PL MEM1-4 modules - all the work you will do and the skills you will be taught around information retention and recollection will ensure you prevent this from taking place. Your mind does all of this, knowing exactly how to regain your focus and reduce your anxiety."
+            },
+            {
+              "label": "I do remember the information but not as well as I'd like to",
+              "score": 75,
+              "descriptive_text": "Thank you for your response. Channelling your focus so your mind thinks only about the task at hand, does not blank or wander off whilst you feel anxious  - is a critical step forward that you need to take, not only in your education but also in life.   During your PL Lessons, especially during your PL MEM1-4 modules - all the work you will do and the skills you will be taught around information retention and recollection will ensure you prevent this from taking place. Your mind does all of this, knowing exactly how to regain your focus and reduce your anxiety."
+            },
+            {
+              "label": "None of the above",
+              "score": 100,
+              "descriptive_text": "Thank you for your response, as an immediate next step  - can you write down what scenarios take place and bring them to your PL Lesson to share with your PL Teacher?"
+            },
+            {
+              "label": "My mind wanders every few seconds so I can't memorise any information ",
+              "score": 5,
+              "descriptive_text": "Thank you for your response. Channelling your focus so your mind thinks only about the task at hand, does not blank or wander off whilst you feel anxious  - is a critical step forward that you need to take, not only in your education but also in life.   During your PL Lessons, especially during your PL MEM1-4 modules - all the work you will do and the skills you will be taught around information retention and recollection will ensure you prevent this from taking place. Your mind does all of this, knowing exactly how to regain your focus and reduce your anxiety."
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "label": "Do you currently have a structured way / method you use to remember information?",
+          "answers": [
+            {
+              "label": "Yes",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up your great progress."
+            },
+            {
+              "label": "No",
+              "score": 25,
+              "descriptive_text": "First of all, thank you for your honesty.  It is time for you to really commit to getting organised and develop a structured way to recall information. During your PL Curriculum you will be given the frameworks, skill and plans you need to do so however you must commit to doing them.  As an immediate next step, ask yourself the following question:<br>1. What results would I achieve and how would I feel if I began to organise my life?<br>Bring the response to this question to your first PL Lesson and give it to your PL Teacher.  Secondly, throughout your PL Curriculum you will be taught the following PL Skills:<br>Learn how to:<br>1. Retain and recall information while you read it<br>2. Decrease the amount of information on the page but increase your understanding of the information once you’ve retained it<br>3. Chunk information based on PL’s chunking skills<br>4. Perform to the test of acquired information, in the first 30 days<br>5. Reduce self-doubt by continuous practice frameworks<br>"
+            },
+            {
+              "label": "I don’t have a structured way to do anything at all as my life is a mess",
+              "score": 5,
+              "descriptive_text": "First of all, thank you for your honesty.  It is time for you to really commit to getting organized, during your PL Curriculum you will be given the frameworks, skill and plans you need to do so however you must commit to doing them.  As an immediate next step, ask yourself the following question:<br>1. What results would I achieve and how would I feel if I began to organize my life?<br><br>Bring the response to this question to your first PL Lesson and give it to your PL Teacher. <br>Secondly, throughout your PL Curriculum you will be taught the following PL Skills:<br>Learn how to:<br>1. Retain and recall information while you read it<br>2. Decrease the amount of information on the page but increase your understanding of the information once you’ve retained it<br>3. Chunk information based on PL’s chunking skills<br>4. Perform to the test of acquired information, in the first 30 days<br>5. Reduce self-doubt by continuous practice frameworks<br>"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "label": "Have you ever had time where you’ve remembered pretty much everything you’ve learned and it’s flowed well?",
+          "answers": [
+            {
+              "label": "Yes",
+              "score": 75,
+              "descriptive_text": "Outstanding, your immediate next step is to write down any examples or previous occasions at school where this happened and bring it to you first PL Lesson"
+            },
+            {
+              "label": "I can't remember",
+              "score": 25,
+              "descriptive_text": "First of all, thank you for your honesty.  We understand this can be difficult for you. During your PL Curriculum you will be taught how to build up your retention and recollection skills, so you can begin to build your memory muscle and progress your results. It is important that you don’t begin to feel anxious about the fact that right now, you cannot recall a time when things have flown well. Place your attention to what’s coming – the building of a great memory."
+            },
+            {
+              "label": "Never have I had this",
+              "score": 5,
+              "descriptive_text": "First of all, thank you for your honesty.  We understand this can be difficult for you. During your PL Curriculum you will be taught how to build up your retention and recollection skills, so you can begin to build your memory muscle and progress your results. It is important that you don’t begin to feel anxious about the fact that right now, you cannot recall a time when things have flown well. Place your attention to what’s coming – the building of a great memory."
+            },
+            {
+              "label": "In all honesty this happens most if not all the time for me, I work hard to make it so",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up the great progress."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "label": "Sleep & Wellbeing",
+      "style": {
+        "colour": "secondary-red1",
+        "icon": "mood"
+      },
+      "is_active": true,
+      "questions": [
+        {
+          "id": 19,
+          "label": "What time do you go to bed?",
+          "answers": [
+            {
+              "label": "7-8pm ",
+              "score": 5,
+              "descriptive_text": "Thank you for your response. Getting to bed at this time is early, and often can be as a result of sleep deprivation and exhaustion.  During your PL Curriculum you will be given a PL Sleep Plan, follow it carefully. Through the combination of your PL Lessons and your PL Sleep Plan, you will be able to reduce your levels of exhaustion and get to bed at a more appropriate hour.  <br>It is important for you to know that getting a good night’s sleep requires the following:<br>1. Being on top and in control of your school work <br>2. Managing your stress and anxiety levels <br>3. Consistent bed times during the week as in the weekend (only a 90 min to two hour variation)<br>A combination of all of the above activities (plus your PL Sleep Plan) will be taught to you during your PL Curriculum to ensure you get a good night’s sleep.<br>"
+            },
+            {
+              "label": "8-10pm",
+              "score": 25,
+              "descriptive_text": "Thank you for your response, getting to bed at this time is early, and often can be as a result of sleep deprivation and exhaustion.  During your PL Curriculum you will be given a PL Sleep Plan, follow it carefully. Through the combination of your PL Lessons and your PL Sleep Plan you will be able to reduce your levels of exhaustion and get to bed at a more appropriate hour.  <br>It is important for you to know that getting a good night’s sleep requires the following:<br>1. Being on top and in control of your school work <br>2. Managing your stress and anxiety levels <br>3. Consistent bed times during the week as in the weekend (only a 90 min to two hour variation)<br>A combination of all of the above activities (plus your PL Sleep Plan) will be taught to you during your PL Curriculum to ensure you get a good night’s sleep.<br>"
+            },
+            {
+              "label": "10-11pm",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up the great progress with your sleep this is the optimal time for you to sleep."
+            },
+            {
+              "label": "11-1am",
+              "score": 100,
+              "descriptive_text": "Thank you for your response, getting to bed at this time is a little late.  During your PL Curriculum you will be given a PL Sleep Plan, follow it carefully. Through the combination of your PL Lessons and your PL Sleep Plan you will be able to reduce your levels of exhaustion and get to bed at a more appropriate hour.  <br>It is important for you to know that getting a good night’s sleep requires the following:<br>1. Being on top and in control of your school work <br>2. Managing your stress and anxiety levels <br>3. Consistent bed times during the week as in the weekend (only a 90 min to two hour variation)<br>A combination of all of the above activities (plus your PL Sleep Plan) will be taught to you during your PL Curriculum to ensure you get a good night’s sleep.<br>"
+            },
+            {
+              "label": "1am-3am",
+              "score": 5,
+              "descriptive_text": "Thank you for your response, getting to bed at this time is a little late, and often can be as a result of stress and not being able to unwind and switch off.<br>During your PL Curriculum you will be given a PL Sleep Plan, follow it carefully. Through the combination of your PL Lessons and your PL Sleep Plan you will be able to reduce your levels of exhaustion and get to bed at a more appropriate hour.  <br>It is important for you to know that getting a good night’s sleep requires the following:<br>1. Being on top and in control of your school work <br>2. Managing your stress and anxiety levels <br>3. Consistent bed times during the week as in the weekend (only a 90 min to two hour variation)<br>A combination of all of the above activities (plus your PL Sleep Plan) will be taught to you during your PL Curriculum to ensure you get a good night’s sleep.<br>"
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "label": "What time do you wake up on a school day?",
+          "answers": [
+            {
+              "label": "Up all night so therefore I get out of bed when I am fed up ",
+              "score": 5,
+              "descriptive_text": "We’re sorry to hear this and we fully understand how tired you must be during the day. If this continues it is important you seek medical advice on what to do.<br>During your PL Curriculum you will be given a PL Sleep Plan, follow it carefully, through the combination of your PL Lessons and your PL Sleep Plan you will be able to reduce your levels of exhaustion and get to bed at a more appropriate hour.  <br>It is important for you to know that getting a good night’s sleep requires the following:<br>1. Being on top and in control of your school work <br>2. Managing your stress and anxiety levels <br>3. Consistent bed times during the week as in the weekend (only a 90 min to two hour variation)<br>4. Maintaining your energy levels as the week progresses<br>"
+            },
+            {
+              "label": "4:00am-5:30am ",
+              "score": 50,
+              "descriptive_text": "Thank you for your answer, waking up between 4am to 530am seems early. We understand if you have to wake up by 5.30am to leave to get to school - however we understand how tired you must be during the day. If this continues it is important you seek medical advice on what to do.<br>During your PL Curriculum you will be given a PL Sleep Plan, follow it carefully, through the combination of your PL Lessons and your PL Sleep Plan you will be able to reduce your levels of exhaustion and get to bed at a more appropriate hour.  <br>It is important for you to know that getting a good night’s sleep requires the following:<br>1. Being on top and in control of your school work <br>2. Managing your stress and anxiety levels <br>3. Consistent bed times during the week as in the weekend (only a 90 min to two hour variation)<br>4. Maintaining your energy levels as the week progresses<br>"
+            },
+            {
+              "label": "5:30am–6:30am  ",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up the great progress with your sleep this is the optimal time for you to sleep."
+            },
+            {
+              "label": "7.00am–8.30am ",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up the great progress with your sleep this is the optimal time for you to sleep"
+            },
+            {
+              "label": "After 9.00am",
+              "score": 5,
+              "descriptive_text": "Thank you for your response, waking up after 9.00am is late and we imagine you may be turning up to school late or indeed, you my be absent from school as a result.  It is most likely as a result of getting to bed very late, which can cause your body to miss crucial sleep cycles and therefore you wake up late.  If the problem continues it is important you seek medical advice.<br>During your PL Curriculum you will be given a PL Sleep Plan, follow it carefully. Through the combination of your PL Lessons and your PL Sleep Plan you will be able to reduce your levels of exhaustion and get to bed at a more appropriate hour.  <br>It is important for you to know that getting a good night’s sleep requires the following:<br>1. Being on top and in control of your school work <br>2. Managing your stress and anxiety levels <br>3. Consistent bed times during the week as in the weekend (only a 90 min to two hour variation)<br>4. Maintaining your energy levels as the week progresses<br>5. Pre- bedtime routines<br>"
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "label": "How long does it take you to go to sleep?",
+          "answers": [
+            {
+              "label": "Instantly",
+              "score": 5,
+              "descriptive_text": "Thank you for your response, waking up after 9.00am is late and we imagine you may be turning up to school late or indeed, you my be absent from school as a result.  It is most likely as a result of getting to bed very late, which can cause your body to miss crucial sleep cycles and therefore you wake up late.  If the problem continues it is important you seek medical advice.<br>During your PL Curriculum you will be given a PL Sleep Plan, follow it carefully. Through the combination of your PL Lessons and your PL Sleep Plan you will be able to reduce your levels of exhaustion and get to bed at a more appropriate hour.  <br>It is important for you to know that getting a good night’s sleep requires the following:<br>1. Being on top and in control of your school work <br>2. Managing your stress and anxiety levels <br>3. Consistent bed times during the week as in the weekend (only a 90 min to two hour variation)<br>4. Maintaining your energy levels as the week progresses<br>5. Pre- bedtime routines<br>"
+            },
+            {
+              "label": "15-25 minutes",
+              "score": 25,
+              "descriptive_text": "Outstanding work, keep up the great progress with your sleep, this is the optimal time for you to sleep."
+            },
+            {
+              "label": "30-45 minutes",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up the great progress with your sleep, this is the optimal time for you to sleep."
+            },
+            {
+              "label": "More then 45 minutes",
+              "score": 25,
+              "descriptive_text": "Thank you for your response. As an immediate next step please ensure you write down what time you go to sleep on the weekends and inform your PL Teacher during your PL Lessons so that they can guide you on your PL Sleep Plan."
+            },
+            {
+              "label": "1-2 hours",
+              "score": 5,
+              "descriptive_text": "Thank you for your response. As an immediate next step please ensure you write down what time you go to sleep on the weekends and inform your PL Teacher during your PL Lessons so that they can guide you on your PL Sleep Plan."
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "label": "Once you’re asleep, do you sleep through the night or wake up frequently?",
+          "answers": [
+            {
+              "label": "I sleep through the night",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up the great progress with your sleep - this is the optimal time for you to sleep"
+            },
+            {
+              "label": "I wake up through the night ",
+              "score": 5,
+              "descriptive_text": "Thank you for your response, as an immediate next step please ensure you write down how many times you wake up through the night and inform your PL Teacher during your PL Lessons so they can guide you on your PL Sleep Plan.<br>Taking 1-2 hours to get to sleep is a concern to us because it should typically take you between 15 to 45 min (maximum). Anything post 45-minutes can be due to an ability to switch off, anxiety or concern or poor sleep hygiene.<br>During your PL Sleep lessons you will be taught the following:<br>1. Being on top and in control of your school work <br>2. Managing your stress and anxiety levels <br>3. Consistent bed times during the week as in the weekend (only a 90 min to two hour variation)<br>4. Maintaining your energy levels as the week progresses<br>5. Pre bed time routines<br>6. How to get back to sleep should you wake up in the night<br>If this problem persists please do consult medical advice, frequent waking through the night is not to be taken lightly.<br>"
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "label": "Do you wake up feeling rested?",
+          "answers": [
+            {
+              "label": "No",
+              "score": 5,
+              "descriptive_text": "Thank you for your response, how you wake up in the morning is a combination of two critical areas:<br>1. How you fall sleep<br>2. The quality of your sleep when you do fall asleep<br>During your PL Sleep Lesson you will design, through the guidance of your PL Teacher, a pre- bedtime routine to follow, as well as a morning routine.  Focus hard during these lessons, as it will help you gain your energy back in the morning.<br>"
+            },
+            {
+              "label": "Yes",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up the great progress with your sleep this is the optimal time for you to sleep."
+            },
+            {
+              "label": "Sometimes / Rarely",
+              "score": 25,
+              "descriptive_text": "Thank you for your response, how you wake up in the morning is a combination of two critical areas:<br>3. How you fall sleep<br>4. The quality of your sleep when you do fall asleep<br>During your PL Sleep Lesson you will design, through the guidance of your PL Teacher, a pre- bedtime routine to follow as well as a morning routine.  Focus hard during these lessons, as it will help you to gain your energy back in the morning.<br>"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "label": "What do you do 30-45 minutes before bed?",
+          "answers": [
+            {
+              "label": "On the computer / ipad",
+              "score": 25,
+              "descriptive_text": "Thank you for your response, it is important that 45 minutes before bed you have a consistent routine to help you get to sleep.  If you have answered “yes” or “sometimes/rarely” for the question that asked if you wake up feeling refreshed, then it is critical that during your PL Sleep Lessons you focus on your pre-sleep routine, which your PL Teacher will provide you with.  Avoiding artificial light, which is emitted from you bright screens, is crucial prior to you going to sleep. Too much exposure to artificial light before bedtime can prevent your body/brain from releasing melatonin, (the vital hormone which helps you sleep) and your body/brain stays away, thinking that it’s daylight."
+            },
+            {
+              "label": "Reading",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up the great progress with your sleep this is the optimal time for you to sleep."
+            },
+            {
+              "label": "Planning what I have to do tomorrow",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up the great progress with your sleep this is the optimal time for you to sleep."
+            },
+            {
+              "label": "Random stuff",
+              "score": 50,
+              "descriptive_text": "Thank you for your response, it is important that 45 minutes before bedtime, you have a consistent routine to help you get to sleep.  If you have answered “yes” or “sometimes/rarely” for the question that asked if you wake up feeling refreshed -  then it is critical that during your PL Sleep Lessons -  you focus on your pre-sleep routine, which your PL Teacher will provide you with."
+            },
+            {
+              "label": "Thinking about random stuff",
+              "score": 5,
+              "descriptive_text": "Thank you for your response, it is important that 45 minutes before bed you have a consistent routine to help you get to sleep.  If you have answered “yes” or “sometimes/rarely” for the question that asked if you wake up feeling refreshed, then it is critical that during your PL Sleep Lessons you focus on your pre-sleep routine, which your PL Teacher will provide you with."
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "label": "Do you often feel sleepy during the day?",
+          "answers": [
+            {
+              "label": "Yes",
+              "score": 5,
+              "descriptive_text": "Thank you for your response, this is of great concern to us and it may also be a worry for you. It is important you implement your PL Sleep Plan when your PL Teacher teaches you the skills and provides you with your plan of action which will include the following areas:<br>1. Being on top and in control of your school work <br>2. Managing your stress and anxiety levels <br>3. Consistent bed times during the week as in the weekend (only a 90 min to two hour variation)<br>4. Maintaining your energy levels as the week progresses<br>5. Pre- bedtime routines<br>"
+            },
+            {
+              "label": "No",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up the great progress with your sleep, this is the optimal time for you to sleep."
+            },
+            {
+              "label": "Sometimes",
+              "score": 25,
+              "descriptive_text": "Thank you for your response, this is of great concern to us and it may be a worry to you too.  It is important you implement your PL Sleep Plan when your PL Teacher teaches you the skills and provides you with your plan of action, which will include the following areas:<br>1. Being on top and in control of your school work <br>2. Managing your stress and anxiety levels <br>3. Consistent bed times during the week as in the weekend (only a 90 min to two hour variation)<br>4. Maintaining your energy levels as the week progresses<br>5. Pre bed time routines<br>"
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "label": "Do you fall asleep at inappropriate times or places?",
+          "answers": [
+            {
+              "label": "Sometimes in class",
+              "score": 5,
+              "descriptive_text": "Thank you for your response, this is of great concern to us and it may be a worry to you too.  It is important you implement your PL Sleep Plan when your PL Teacher teaches you the skills and provides you with your plan of action, which will include the following areas:<br>6. Being on top and in control of your school work <br>7. Managing your stress and anxiety levels <br>8. Consistent bed times during the week as in the weekend (only a 90 min to two hour variation)<br>9. Maintaining your energy levels as the week progresses<br>10. Pre bed time routines<br>"
+            },
+            {
+              "label": "No",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up the great progress with your sleep this is the optimal time for you to sleep."
+            },
+            {
+              "label": "When I am trying to study/revise at my desk",
+              "score": 5,
+              "descriptive_text": "Thank you for your response, this is of great concern to us and it may be worry to you too.  It is important you implement your PL Sleep Plan when your PL Teacher teaches you the skills and provides you with your plan of action, which will include the following areas:<br>1. Being on top and in control of your school work <br>2. Managing your stress and anxiety levels <br>3. Consistent bed times during the week as in the weekend (only a 90 min to two hour variation)<br>4. Maintaining your energy levels as the week progresses<br>5. Pre bed time routines<br>"
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "label": "Have you ever been treated with anxiety and depression?",
+          "answers": [
+            {
+              "label": "Yes",
+              "score": 5,
+              "descriptive_text": "Thank you for your response."
+            },
+            {
+              "label": "No",
+              "score": 100,
+              "descriptive_text": "Thank you for your response."
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "label": "Does your weekday sleep pattern differ from your weekend sleep pattern?",
+          "answers": [
+            {
+              "label": "Yes",
+              "score": 25,
+              "descriptive_text": "Thank you for your response, it is important that your weekend pattern does not differentiate too much from your weekday sleep pattern.  Please ensure you write down what time you go to sleep on the weekends and inform your PL Teacher during your PL Lessons so that they can guide you on your PL Sleep Plan.  As an immediate next step over the next two weeks, go to bed 90 minutes later on the weekend, no more.  "
+            },
+            {
+              "label": "No",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up the great progress with your sleep this is the optimal time for you to sleep."
+            },
+            {
+              "label": "Everything is inconsistent",
+              "score": 5,
+              "descriptive_text": "Thank you for your response, this is of great concern to us and it may be a worry to you too.  It is important that you implement your PL Sleep Plan when your PL Teacher teachers you the skills and provides you with your plan of action which will include the following areas:<br>1. Being on top and in control of your school work <br>2. Managing your stress and anxiety levels <br>3. Consistent bed times during the week as in the weekend (only a 90 min to two hour variation)<br>4. Maintaining your energy levels as the week progresses<br>5. Pre bed time routines<br>The combination of your PL Lessons and your PL Sleep Plan will help provide you with the consistency you need and deserve.<br>"
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "label": "Do you find yourself getting tired as the day progresses?  Do you ever feel burnt out / extreme tiredness?",
+          "answers": [
+            {
+              "label": "Yes",
+              "score": 5,
+              "descriptive_text": "Thank you for your response, this is of great concern to us and it may be a worry to you too.  It is important you implement your PL Sleep Plan when your PL Teacher teaches you the skills and provides you with your plan of action, which will include the following areas:<br>1. Being on top and in control of your school work <br>2. Managing your stress and anxiety levels <br>3. Consistent bed times during the week as in the weekend (only a 90 min to two hour variation)<br>4. Maintaining your energy levels as the week progresses<br>5. Pre- bedtime routines<br>Burn out often occurs when you feel overwhelmed with the amount of work you have on. During your PL Curriculum, in combination with your PL Memory and Time Management skills that you will acquire - you will be provided with the steps you need to take to reduce your tiredness and increase your energy levels.<br>If this problem persists please do consult medical advice, burnout and extreme tiredness is not to be taken lightly.<br>"
+            },
+            {
+              "label": "No",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up the great progress with your sleep this is the optimal time for you to sleep."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+<section id="frame-intro" class="frame-wrapper frame-green">
+    <div class="frame-inner">
+        <div class="frame-full">
+            <div class="intro-wrap">
+                <div class="intro">
+                    <header class="intro-title">
+                        <h1>Section {{ sectionIndex }}</h1>
+                    </header>
+                    <span class="intro-heading">{{ sectionTitle }}</span>
+                    <div class="intro-icons"></div>
+                    <div class="intro-control cf">
+                        <a ng-click="prev()" class="button button-back"><i class="mdi mdi-play"></i></a>
+                        <a ui-sref="page.question({section_index: sectionIndex, question_index: 1})"
+                           class="button button-intro">Start<i class="mdi mdi-play"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

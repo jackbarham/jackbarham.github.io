@@ -1,0 +1,678 @@
+{
+  "id": 4,
+  "label": "Primary Assessment",
+  "question_groups": [
+    {
+      "id": 10,
+      "label": "Your lifestyle",
+      "style": {
+        "colourway": 1
+      },
+      "is_active": true,
+      "questions": [
+        {
+          "id": 58,
+          "label": "What time do you go to bed on a school night?",
+          "answers": [
+            {
+              "label": "Before 7.00pm",
+              "score": 75,
+              "descriptive_text": "Thank you for your response. We know that your parents usually tell you what time to go to bed. Getting to bed at this time is early, and often can be as a result of not enough sleep and tiredness.  During your PL Curriculum you will be given a PL Sleep Plan, follow it carefully with your parents. This plan and your PL Lessons will help you to feel less tired and it will help you get to bed on time. It is important for you to know that you have to have these 3 things in order to have a good night of sleep:\n <br>1.     Being in control of your school work<br>2.     Being able to recognise if you are stressed and knowing what to do with it<br>3.   Going to bed at the same time, every night (weekends might be a bit different)<br><br> We (PL) are here to help you with all of these things.<br><br>",
+              "time": {
+                "h": 7,
+                "m": 0
+              }
+            },
+            {
+              "label": "7.00 - 9.30pm",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up the great progress.",
+              "time": {
+                "h": 8,
+                "m": 30
+              }
+            },
+            {
+              "label": "9.30pm - 11.00pm",
+              "score": 50,
+              "descriptive_text": "Thank you for your response. We know that your parents usually tell you what time to go to bed. Getting to bed at this time is late, and often can be as a result of not enough sleep and tiredness.  During your PL Curriculum you will be given a PL Sleep Plan, follow it carefully. This plan and your PL Lessons will help you to feel less tired and it will help you get to bed on time. \n<br>It is important for you to know that you have to have these 3 things in order to have a good night of sleep:<br> <br>1.     Being in control of your school work<br>2.     Being able to recognise if you are stressed and knowing what to do with it<br>3.   Going to bed at the same time, every night (weekends might be a bit different)<br><br> We (PL) are here to help you with all of these things.<br><br>",
+              "time": {
+                "h": 10,
+                "m": 15
+              }
+            },
+            {
+              "label": "After 11pm",
+              "score": 25,
+              "descriptive_text": "Thank you for your response. We know that your parents usually tell you what time to go to bed. Getting to bed at this time is too late and you are not getting enough sleep. During your PL Curriculum you will be given a PL Sleep Plan, follow it carefully. This plan and your PL Lessons will help you to feel less tired and it will help you get to bed on time.  It is important for you to know that you have to have these 3 things in order to have a good night of sleep:\n<br>1.        Being in control of your school work<br>2.        Being able to recognise if you are stressed and knowing what to do with it<br>3.        Going to bed at the same time, every night (weekends might be a bit different)<br><br>We (PL) are here to help you with all of these things.<br><br>",
+              "time": {
+                "h": 11,
+                "m": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": 59,
+          "label": "What time do you go to bed at the weekend?",
+          "answers": [
+            {
+              "label": "7.00pm - 10.00pm",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up the great progress.",
+              "time": {
+                "h": 7,
+                "m": 0
+              }
+            },
+            {
+              "label": "10.00pm - 1.00am",
+              "score": 25,
+              "descriptive_text": "Thank you for your response. We know that your parents usually tell you what time to go to bed. Getting to bed at this time is too late and you are not getting enough sleep. During your PL Curriculum you will be given a PL Sleep Plan, follow it carefully. This plan and your PL Lessons will help you to feel less tired and it will help you get to bed on time.  It is important for you to know that you have to have these 3 things in order to have a good night of sleep:\n<br>1.        Being in control of your school work<br>2.        Being able to recognise if you are stressed and knowing what to do with it<br>3.        Going to bed at the same time, every night (weekends might be a bit different)<br><br>We (PL) are here to help you with all of these things.<br><br>",
+              "time": {
+                "h": 10,
+                "m": 0
+              }
+            },
+            {
+              "label": "1.00am - 3.00am",
+              "score": 5,
+              "descriptive_text": "Thank you for your response. We know that your parents usually tell you what time to go to bed. Getting to bed at this time is too late and you are not getting enough sleep. During your PL Curriculum you will be given a PL Sleep Plan, follow it carefully. This plan and your PL Lessons will help you to feel less tired and it will help you get to bed on time.  It is important for you to know that you have to have these 3 things in order to have a good night of sleep:",
+              "time": {
+                "h": 1,
+                "m": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": 60,
+          "label": "What do you normally do 45-60 minutes before you go to sleep?",
+          "answers": [
+            {
+              "label": "I am on a computer, tablet or playing video games",
+              "score": 25,
+              "descriptive_text": "Thanks for this honesty. All of these things (computers, tablets etc.) have something called ‘artificial light’. This light tells your body and your mind that it is actually daylight and your body and mind want to stay awake. This then prevents you from falling asleep easily. You need to avoid looking at artificial light at least an hour before you go to bed. Our PL Curriculum will help you with this. "
+            },
+            {
+              "label": "I am reading",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up the great progress with your sleep. Some say that the last thing you learn at night is the first thing you remember in the morning. "
+            },
+            {
+              "label": "I am planning my work for the next day and all my stuff ready",
+              "score": 75,
+              "descriptive_text": "Outstanding work, keep up the great progress with your sleep. Some say that the last thing you learn at night is the first thing you remember in the morning."
+            },
+            {
+              "label": "Random stuff",
+              "score": 50,
+              "descriptive_text": "Thank you for your response, it is important that an hour before you go to bed, you have a routine (same thing happens at the same time) and in that routine, you do something to help you sleep. Reading a book or learning something for school would be helpful. Watching T.V, looking at computers or tablets would not help you and would keep you awake.  "
+            }
+          ]
+        },
+        {
+          "id": 61,
+          "label": "How long does it take you to go to sleep?",
+          "answers": [
+            {
+              "label": "I fall asleep instantly",
+              "score": 75,
+              "descriptive_text": "Thank you for this –do you think this is because you’re too tired? It is important you implement your PL Sleep Plan when your PL Teacher teaches you the skills and provides you with your plan of action, which will include the following areas:\n<br>1.        Being in control of your school work <br>2.        Being able to recognise if you are stressed and knowing what to do with it<br>3.        Going to bed at the same time, every night (weekends might be a bit different)<br>4.        Keeping your energy levels the same as the week progresses<br>5.        Doing the same thing  (routine) every night before you go to bed<br><br>",
+              "time": {
+                "h": 0,
+                "m": 0
+              }
+            },
+            {
+              "label": "It takes me 15-25 minutes",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up the great progress with your sleep this is the best time for you to sleep.",
+              "time": {
+                "h": 0,
+                "m": 15,
+                "q": 1
+              }
+            },
+            {
+              "label": "It takes me 30-45 minutes",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up the great progress with your sleep this is the best time for you to sleep.",
+              "time": {
+                "h": 0,
+                "m": 30,
+                "q": 2
+              }
+            },
+            {
+              "label": "More then 45 minutes",
+              "score": 50,
+              "descriptive_text": "Thank you for your response. Please write down what time you go to sleep on the weekends and inform your PL Teacher during your PL Lessons so they can guide you on your PL Sleep Plan.",
+              "time": {
+                "h": 0,
+                "m": 45,
+                "q": 3
+              }
+            },
+            {
+              "label": "It takes me ages to fall to sleep, 1-2 hours",
+              "score": 5,
+              "descriptive_text": "Thank you for your response. Please write down what time you go to sleep on the weekends and inform your PL Teacher during your PL Lessons so that they can guide you on your PL Sleep Plan.\n<br>Taking 1-2 hours to get to sleep is a concern to us. It should take you much less time. It could be that you have a lot in your mind and you need to learn how to get rid of this ‘mind chatter’. <br><br>It could also be that you have ‘artificial light’ in your bedroom. This light comes from computer screens, T.Vs, tablets etc. It tells your body and mind that it’s still daylight and you therefore want to stay awake even though you’re trying to get to sleep!! It might be worth talking to your parents about this. <br><br>During your PL Sleep lessons you will be taught the following:<br><br>1.        Being in control of your school work <br>2.        Being able to recognise if you are stressed and knowing what to do with it<br>3.        Going to bed at the same time, every night (weekends might be a bit different)<br>4.        Keeping your energy levels the same as the week progresses<br>5.        Doing the same thing  (routine) every night before you go to bed<br><br>",
+              "time": {
+                "h": 0,
+                "m": 0,
+                "q": 4
+              }
+            }
+          ]
+        },
+        {
+          "id": 62,
+          "label": "How do you feel when you wake up in the morning, during the week?",
+          "answers": [
+            {
+              "label": "I wake up with lots of energy",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up the great progress with your sleep."
+            },
+            {
+              "label": "I wake up feeling tired",
+              "score": 25,
+              "descriptive_text": "Thank you for your response. Feeling tired could be because of:\n<br>1.        How you fall sleep<br>2.        The quality of your sleep when you do fall asleep<br><br>During your PL Sleep Lessons you will learn from the PL Teacher a pre-bedtime routine to follow as well as a morning routine.  Focus hard during these lessons, as it will help you gain your energy back in the morning.<br><br>"
+            },
+            {
+              "label": "I am somewhere in the middle between tired and having energy",
+              "score": 50,
+              "descriptive_text": "Thank you for your response, how you wake up in the morning is due to these two things:\n<br>1.        How you fall sleep<br>2.        The quality of your sleep when you do fall asleep<br><br>During your PL Sleep Lessons you will learn from the PL Teacher a pre-bedtime routine to follow as well as a morning routine.  Focus hard during these lessons, as it will help you gain your energy back in the morning.<br><br>"
+            }
+          ]
+        },
+        {
+          "id": 63,
+          "label": "On a scale of 1-10, 10 being “so much energy” and 1 being “none at all” how do you feel mostly at school?",
+          "answers": [
+            {
+              "label": "1-4 (I am so tired all the time)",
+              "score": 25,
+              "descriptive_text": "Thank you for your response. This is of great concern to us and we are sure that this is not good for you.  It is important you implement your PL Sleep Plan when your PL Teacher teaches you the skills and provides you with your plan of action, which will include the following areas:\n<br>1.        Being able to recognise if you are stressed and knowing what to do with it<br>2.        Going to bed at the same time, every night (weekends might be a bit different)<br>3.        Keeping your energy levels the same as the week progresses<br>4.        Doing the same thing  (routine) every night before you go to bed<br><br>"
+            },
+            {
+              "label": "5-7 (I am ok, somewhere in the middle between no energy and lots of energy)",
+              "score": 50,
+              "descriptive_text": "Thank you for your response. Being in between is pretty good on a weekly basis. However we are worried that your energy levels change too much. It is important we try and keep your energy levels the same so that they are not as ‘up’ and ‘down’ as you are at the moment. Through our PL Curriculum, you will be taught the following:\n<br><br>1.        Being able to recognise if you are stressed and knowing what to do with it<br>2.        Going to bed at the same time, every night (weekends might be a bit different)<br>3.        Keeping your energy levels the same as the week progresses<br>4.        Doing the same thing  (routine) every night before you go to bed<br><br>Along with your other PL Lessons, the above 4 areas will be really helpful for you.<br><br>"
+            },
+            {
+              "label": "8-10 (I have lots of energy in school, I really look forward to learning)",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up the great progress"
+            }
+          ]
+        },
+        {
+          "id": 64,
+          "label": "When do you feel you have the most amount of energy at school?",
+          "answers": [
+            {
+              "label": "When I have had a really good sleep the night before",
+              "score": 75,
+              "descriptive_text": "Great answer!  It is really important you keep this up. Through your PL Curriculum, you will be given a really fun PL Sleep Plan, which will give a set routine (doing the same thing at the same time) on what time to go to bed, what to do before going to bed, what to do in the morning and lots more.  All of this, plus your normal schedule- will ensure you get a really good night’s sleep before school so that you always feel great."
+            },
+            {
+              "label": "When I feel like I am learning and understanding what the teacher is teaching me",
+              "score": 50,
+              "descriptive_text": "Great answer!  It is really important you keep this up. Through your PL Curriculum, you will be given a really fun PL Sleep Plan, which will give a set routine (doing the same thing at the same time) on what time to go to bed, what to do before going to bed, what to do in the morning and lots more.  All of this, plus your normal schedule- will ensure you get a really good night’s sleep before school so that you always feel great.\n<br>Secondly, it is also important that you continuously have a clear understanding of what your teacher is teaching you. We are going to help you learn HOW to understand more. From learning how to breakdown complex tasks into bit size chunks, to increasing how quickly you read and recall information.  <br><br>"
+            },
+            {
+              "label": "When my friends and I are getting the same results and we are all doing well",
+              "score": 25,
+              "descriptive_text": "Great answer!  It is important you take regular breaks from work. Breaks give your brain a chance to organise all of the work you’ve done prior to this rest.  Your brain is like a filing cabinet - it needs time to organise and process, this is done during breaks and when you are asleep.  \n<br>During your PL Curriculum you will be given a set plan on when to take breaks, what to do during your breaks (especially when you are at home doing homework) and how to ensure you don’t run out of energy when you come back from your breaks.<br><br>"
+            },
+            {
+              "label": "After break time when I have had time to switch off from work and have fun",
+              "score": 75,
+              "descriptive_text": "Great answer!  It is important you take regular breaks from work. Breaks give your brain a chance to organise all of the work you’ve done prior to this rest.  Your brain is like a filing cabinet - it needs time to organise and process, this is done during breaks and when you are asleep.  \n<br>During your PL Curriculum you will be given a set plan on when to take breaks, what to do during your breaks (especially when you are at home doing homework) and how to ensure you don’t run out of energy when you come back from your breaks.<br><br>"
+            },
+            {
+              "label": "When I am organised and I feel in control of my work",
+              "score": 50,
+              "descriptive_text": "This is a really clever response, good for you!  Being organised helps you feel in control. When you are in control, you can achieve so much in your schoolwork.  During your PL Curriculum you will be taught really fun and easy skills for becoming really organised, which will help you not only when work is easy but also when things can be stressful. Some of the skills you will be taught; are as follows:\n<br>1.        The PL Power Quadrant – learning how to prioritise and manage your work on a weekly basis <br>2.        PL-EF – learning how to take effective notes in class <br>3.        Revision structuring and planning<br><br>And lots more!<br><br>"
+            },
+            {
+              "label": "Never, I always feel tired in school",
+              "score": 25,
+              "descriptive_text": "Thank you for your response, this worries us and it can’t be good for you.  It is important that you implement your PL Sleep Plan when your PL Teacher teaches you the skills and provides you with your plan of action, which will include the following areas:\n<br>1.        Being in control of your school work <br>2.        Being able to recognise if you are stressed and knowing what to do with it<br>3.        Going to bed at the same time, every night (weekends might be a bit different)<br>4.        Keeping your energy levels the same as the week progresses<br>5.        Doing the same thing  (routine) every night before you go to bed<br><br>Stress often occurs when you feel overwhelmed (out of control) with the amount of work you have on. During your PL Curriculum, you will be provided with the steps you need to take to reduce your tiredness and increase your energy levels.<br><br>If however, you continue to feel tired, you must tell your parents, who can take you to the doctor to check that everything is fine.<br><br>"
+            }
+          ]
+        },
+        {
+          "id": 65,
+          "label": "When do you feel you have the least amount of energy at school?",
+          "answers": [
+            {
+              "label": "When I get told off by the teacher",
+              "score": 50,
+              "descriptive_text": "Thank you for your honest response, we understand that being told off by your teacher can be really difficult and stressful.  I wish we could promise you that this will never happen again but we can’t. It is important for you to always know that we can help reduce the amount this happens by helping you make the following improvements during your PL Curriculum:\n<br>1.        Your Skills – getting better at school work, making less mistakes, improving your reading, writing and learning of information <br><br>2.        Learning Style – participation in class, working with other people, asking more questions, being proactive, becoming stronger and giving up less often (resilience) <br><br>Do the following exercise and bring the responses to your PL teacher:<br><br>a).  When was the last time I got told off by my teacher?<br>b).  Why did I get told off?<br>c).   What did I learn about it?<br> <br>Good work.<br><br>"
+            },
+            {
+              "label": "When I am confused and don’t understand what I am supposed to do",
+              "score": 50,
+              "descriptive_text": "Great honesty, Confusion is the first step to understanding so you are not far off at all.  One of the key areas of growth for you during your PL Curriculum will be to be taught how to take care of your energy levels, stress levels and anxiety. \n<br>When you’re learning something new, the only way to progress is to keep learning new things, however, if you’re getting stressed when you don’t understand something this will affect your overall learning and results.  <br><br>Your PL Lessons will not only teach you how to reduce your anxiety and stress levels (and therefore boost your energy levels) but also teach you the process (the correct order) of learning in each of your subjects. This will help in reducing levels of confusion and overall make you a stronger learner<br><br>"
+            },
+            {
+              "label": "When I get a bad results in a test or exam",
+              "score": 50,
+              "descriptive_text": "Thank you for your honest response, getting bad results in tests or exams can be one of the worst feelings in the world. We understand completely how hard this can be for you.  During your PL Curriculum you will be taught the following critical areas and skills that will help you to reduce poor results.\n<br>1.        Learning how to learn from failure and keep moving on <br>2.        Improvements to your skills in exams and in work (memory skills)<br>3.        More effective revision skills<br><br>A combination of building your strengths and reducing any weaknesses will help a great deal.<br><br>"
+            },
+            {
+              "label": "When there is too much work and I feel stressed and under pressure and totally out of control",
+              "score": 25,
+              "descriptive_text": "Thank you for your honest response. First of all, it is important for you not to be too hard on yourself. Learning how to manage your workload effectively an continuously feeling like you’re in control is everything you will cover during your PL Curriculum.\n<br>As you progress through school your work will increase but through PL you will learn how to manage this. It is also important for you to know that learning how to feel less stressed and being on top of your work so homework is completed on time, is all a skill that you will learn. PL will give you the framework to do this so stay calm and you will be flying through school in no time.<br><br>"
+            },
+            {
+              "label": "None of the above, I always have lots of energy in school",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up the great progress"
+            }
+          ]
+        },
+        {
+          "id": 66,
+          "label": "How often do you feel at your best in school?",
+          "answers": [
+            {
+              "label": "Most of the time",
+              "score": 100,
+              "descriptive_text": "Outstanding work, keep up the great progress"
+            },
+            {
+              "label": "Sometimes, it depends on my work and how well I am doing",
+              "score": 75,
+              "descriptive_text": "It’s good to hear that sometimes you feel like you’re at your best at school. During your PL Curriculum you will be taught how to become an independent learner and gain total control of your work and therefore, as much as possible, your results. This will make you feel like you’re performing to your best ability, as much as possible. "
+            },
+            {
+              "label": "If my friends are happy, I am happy",
+              "score": 50,
+              "descriptive_text": "This is a lovely response and it’s really great to hear that you care about your friends.  As you get older it will become increasingly important for both you and your friends to become independent learners. Sometimes they will do better then you and other times you will do better then them. What’s really important is for your results not to be affected by any one else’s performance.  \n<br>During your PL Curriculum you will be taught how to become an independent learner and gain total control of your work, you energy levels, how you feel in school and therefore, as much as possible, your results.<br><br>"
+            },
+            {
+              "label": "I never really feel at my best to be honest",
+              "score": 25,
+              "descriptive_text": "Thank you for your honest response. We are sorry to learn that you have never felt your best in school.  If this feeling continues please talk to your teacher.  In the meantime, it is important for you to know that you’re probably not feeling your best because of the following reasons:\n<br>1.        Your results as not good as you would like them to be<br>2.        You’re feeling tired, stressed and overwhelmed (out of control) with the amount of work you have on <br>3.        You’re struggling in your homework and as a result, you’re arguing with your parents are you’re handing it in late and then getting told off by your teachers. <br>4.        You are struggling to understand or participate as much as you would like to in class<br><br>Though at times it can feel like the above areas are really stressful, through your PL Curriculum, with your PL Teacher you will be taught how to make real improvements. It’ll be fun and mostly straight forward for you to do.  ‘Hang in’ there, stay as confident and as strong as you can, we will turn it around.<br><br>"
+            },
+            {
+              "label": "I am not sure, I don’t know what my best is",
+              "score": 5,
+              "descriptive_text": "Thank you for your honest response. As you progress through school it’ll become really important for you to know your strengths and weaknesses. The earlier you know this, the better it’ll be for you so that you can weaken your weaknesses and strengthen your strengths. \n<br>A big part of your PL Curriculum will be based on building your strengths but also knowing exactly what your strengths are.<br><br>Please now write answers to the following questions:<br><br>a).  What part of my schoolwork do I really enjoy?<br>b).  What do I find easy?<br>c).  What do I find difficult?<br>d).  What did I recently do really well in and why?<br>e).  What did I do not so well in and why?<br><br>Bring your answers to your PL Lesson and show them to your PL Teacher.<br><br>"
+            }
+          ]
+        },
+        {
+          "id": 67,
+          "label": "If you could pick one feeling out of the list of feelings below to feel on a regular basis, what would it be?",
+          "answers": [
+            {
+              "label": "In control, knowing what I have to do and knowing how to do it",
+              "score": 75,
+              "descriptive_text": "Thank you for your honest answer. As you have chosen this answer it seems like you are looking for a plan to help you with the following:\n<br>a).  Know exactly what is being asked of you every day<br>b).  Know how to do it and if not, know who to ask to help<br>c).  Feel like you’re in control and handing in homework on time<br>d).  Producing good results in tests and exams<br><br>The above four areas are very important for your PL Curriculum. You will learn the skills to boost your performance and always be in as much as control as you can.<br><br>"
+            },
+            {
+              "label": "Confident",
+              "score": 75,
+              "descriptive_text": "Thank you for your honest answer. Being a confident learner is really important and something your PL Curriculum will help you with. Confidence is about producing good behaviours and good results over and over again. Like a top athlete, the more you feel like you are winning, the more confident you’ll be.  Your PL Curriculum will teach you skills that will help you boost your confidence:\n<br>a).  Major improvements on your skills in core subjects and how much you remember in these subjects<br>b).  Knowing how to reduce stress and pressure and be more positive<br>c).  Having a structure and a plan so you don’t feel out of control (which can reduce confidence)<br>d).  Learning the skills to produce good results in tests and exams<br><br>+ Lots more!<br><br>"
+            },
+            {
+              "label": "Happy with lots of energy",
+              "score": 50,
+              "descriptive_text": "Thank you for your honest answer. Having lots of energy during the week and ensuring your energy does not go down as the week progresses is really important. This is not only for your schoolwork but also for you to remain healthy and strong.\n<br>During your PL Curriculum, along with the skills you learn to help your schoolwork, you will focus a lot on your sleep and energy. Sleep is one of the most powerful ways to recover from a hard day’s work and recharge your body so you are fresh and ready to go the next day. Some of areas you will cover are:<br><br>a).  Bedtime routine so you can get to sleep well<br>b).  Morning routine so you can start your day feeling strong<br>c).  PL Time Planning so you don’t feel overwhelmed and under pressure (this can reduce energy)<br>d).  Building your strengths in school so it becomes easy to get good results<br><br>+ Lots more!<br><br>"
+            },
+            {
+              "label": "Not under pressure, no stress",
+              "score": 50,
+              "descriptive_text": "Thank you for your honest answer, being able to manage pressure and your stress levels both in and out of school is essential to being the best you can be and producing outstanding exam and test results, as well as schoolwork.  During your PL Curriculum you will learn skills to be able to do this, both now and during your exam and test time, when stress and pressure levels are high. These are some of the skills: \n<br>a).  Pre-, during and -post exam routines to ensure you are fully prepared and practiced <br>b).  Your PL Sleep plan (a good night’s sleep is proven to reduce your stress levels significantly)<br>c).  PL Time Planning so you don’t feel overwhelmed and under pressure (this can reduce energy)<br>d).  Building your strengths in school so it becomes easy to get good results<br>e).  Knowing how to reduce stress levels if you have no control over them<br><br>+ Lots more!<br><br>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "label": "Your classwork",
+      "style": {
+        "colourway": 2
+      },
+      "is_active": true,
+      "questions": [
+        {
+          "id": 68,
+          "label": "Give yourself a score out of 5,5 being amazing and 1 being poor at speaking",
+          "answers": [
+            {
+              "label": "1",
+              "score": 25,
+              "descriptive_text": "Thank you for your honesty, ‘hang in there’. As we know, you’re finding this skill a challenge.  Through your PL Curriculum you will be given an opportunity to work on and improve in this area. Getting strong in every skill requires the technical ability as well as an open mind to grow and develop this area of your schoolwork."
+            },
+            {
+              "label": "2",
+              "score": 25,
+              "descriptive_text": "Thank you for your honesty, ‘hang in there’. As we know, you’re finding this skill a challenge.  Through your PL Curriculum you will be given an opportunity to work on and improve in this area. Getting strong in every skill requires the technical ability as well as an open mind to grow and develop this area of your schoolwork."
+            },
+            {
+              "label": "3",
+              "score": 50,
+              "descriptive_text": "Great stuff!  It seems you’re fairly strong in this area of your schoolwork. Your goal will be to get this up to a consistent 4-5 out of 5 and turn it into a strength. Through your PL Curriculum you will highlight exactly the specific areas you need to focus on in order to make this progress.  Your PL Teacher will then help you to get there."
+            },
+            {
+              "label": "4",
+              "score": 50,
+              "descriptive_text": "Great stuff!  It seems you’re fairly strong in this area of your schoolwork. Your goal will be to get this up to a consistent 4-5 out of 5 and turn it into a strength. Through your PL Curriculum you will highlight exactly the specific areas you need to focus on in order to make this progress.  Your PL Teacher will then help you to get there."
+            },
+            {
+              "label": "5",
+              "score": 75,
+              "descriptive_text": "Great stuff!  It seems you’re fairly strong in this area of your schoolwork. Your goal will be to get this up to a consistent 4-5 out of 5 and turn it into a strength. Through your PL Curriculum you will highlight exactly the specific areas you need to focus on in order to make this progress.  Your PL Teacher will then help you to get there."
+            }
+          ]
+        },
+        {
+          "id": 69,
+          "label": "Give yourself a score out of 5,5 being amazing and 1 being poor at writing",
+          "answers": [
+            {
+              "label": "1",
+              "score": 25,
+              "descriptive_text": "Thank you for your honesty, ‘hang in there’. As we know, you’re finding this skill a challenge.  Through your PL Curriculum you will be given an opportunity to work on and improve in this area. Getting strong in every skill requires the technical ability as well as an open mind to grow and develop this area of your schoolwork."
+            },
+            {
+              "label": "2",
+              "score": 25,
+              "descriptive_text": "Thank you for your honesty, ‘hang in there’. As we know, you’re finding this skill a challenge.  Through your PL Curriculum you will be given an opportunity to work on and improve in this area. Getting strong in every skill requires the technical ability as well as an open mind to grow and develop this area of your schoolwork."
+            },
+            {
+              "label": "3",
+              "score": 50,
+              "descriptive_text": "Great stuff!  It seems you’re fairly strong in this area of your schoolwork. Your goal will be to get this up to a consistent 4-5 out of 5 and turn it into a strength. Through your PL Curriculum you will highlight exactly the specific areas you need to focus on in order to make this progress.  Your PL Teacher will then help you to get there."
+            },
+            {
+              "label": "4",
+              "score": 50,
+              "descriptive_text": "Great stuff!  It seems you’re fairly strong in this area of your schoolwork. Your goal will be to get this up to a consistent 4-5 out of 5 and turn it into a strength. Through your PL Curriculum you will highlight exactly the specific areas you need to focus on in order to make this progress.  Your PL Teacher will then help you to get there."
+            },
+            {
+              "label": "5",
+              "score": 75,
+              "descriptive_text": "Great stuff!  It seems you’re fairly strong in this area of your schoolwork. Your goal will be to get this up to a consistent 4-5 out of 5 and turn it into a strength. Through your PL Curriculum you will highlight exactly the specific areas you need to focus on in order to make this progress.  Your PL Teacher will then help you to get there."
+            }
+          ]
+        },
+        {
+          "id": 70,
+          "label": "Give yourself a score out of 5,5 being amazing and 1 being poor at reading",
+          "answers": [
+            {
+              "label": "1",
+              "score": 25,
+              "descriptive_text": "Thank you for your honesty, ‘hang in there’. As we know, you’re finding this skill a challenge.  Through your PL Curriculum you will be given an opportunity to work on and improve in this area. Getting strong in every skill requires the technical ability as well as an open mind to grow and develop this area of your schoolwork."
+            },
+            {
+              "label": "2",
+              "score": 25,
+              "descriptive_text": "Thank you for your honesty, ‘hang in there’. As we know, you’re finding this skill a challenge.  Through your PL Curriculum you will be given an opportunity to work on and improve in this area. Getting strong in every skill requires the technical ability as well as an open mind to grow and develop this area of your schoolwork."
+            },
+            {
+              "label": "3",
+              "score": 50,
+              "descriptive_text": "Great stuff! It seems you’re fairly strong in this area of your schoolwork. Your goal will be to get this up to a consistent 4-5 out of 5 and turn it into a strength. Through your PL Curriculum you will highlight exactly the specific areas you need to focus on in order to make this progress. Your PL Teacher will then help you to get there."
+            },
+            {
+              "label": "4",
+              "score": 50,
+              "descriptive_text": "Great stuff! It seems you’re fairly strong in this area of your schoolwork. Your goal will be to get this up to a consistent 4-5 out of 5 and turn it into a strength. Through your PL Curriculum you will highlight exactly the specific areas you need to focus on in order to make this progress. Your PL Teacher will then help you to get there."
+            },
+            {
+              "label": "5",
+              "score": 75,
+              "descriptive_text": "Great stuff! It seems you’re fairly strong in this area of your schoolwork. Your goal will be to get this up to a consistent 4-5 out of 5 and turn it into a strength. Through your PL Curriculum you will highlight exactly the specific areas you need to focus on in order to make this progress. Your PL Teacher will then help you to get there."
+            }
+          ]
+        },
+        {
+          "id": 71,
+          "label": "Give yourself a score out of 5,5 being amazing and 1 being poor at listening",
+          "answers": [
+            {
+              "label": "1",
+              "score": 25,
+              "descriptive_text": "Thank you for your honesty, ‘hang in there’. As we know, you’re finding this skill a challenge. Through your PL Curriculum you will be given an opportunity to work on and improve in this area. Getting strong in every skill requires the technical ability as well as an open mind to grow and develop this area of your schoolwork."
+            },
+            {
+              "label": "2",
+              "score": 25,
+              "descriptive_text": "Thank you for your honesty, ‘hang in there’. As we know, you’re finding this skill a challenge. Through your PL Curriculum you will be given an opportunity to work on and improve in this area. Getting strong in every skill requires the technical ability as well as an open mind to grow and develop this area of your schoolwork."
+            },
+            {
+              "label": "3",
+              "score": 50,
+              "descriptive_text": "Great stuff! It seems you’re fairly strong in this area of your schoolwork. Your goal will be to get this up to a consistent 4-5 out of 5 and turn it into a strength. Through your PL Curriculum you will highlight exactly the specific areas you need to focus on in order to make this progress. Your PL Teacher will then help you to get there."
+            },
+            {
+              "label": "4",
+              "score": 50,
+              "descriptive_text": "Great stuff! It seems you’re fairly strong in this area of your schoolwork. Your goal will be to get this up to a consistent 4-5 out of 5 and turn it into a strength. Through your PL Curriculum you will highlight exactly the specific areas you need to focus on in order to make this progress. Your PL Teacher will then help you to get there."
+            },
+            {
+              "label": "5",
+              "score": 75,
+              "descriptive_text": "Great stuff! It seems you’re fairly strong in this area of your schoolwork. Your goal will be to get this up to a consistent 4-5 out of 5 and turn it into a strength. Through your PL Curriculum you will highlight exactly the specific areas you need to focus on in order to make this progress. Your PL Teacher will then help you to get there."
+            }
+          ]
+        },
+        {
+          "id": 72,
+          "label": "Give yourself a score out of 5,5 being amazing and 1 being poor at remembering",
+          "answers": [
+            {
+              "label": "1",
+              "score": 25,
+              "descriptive_text": "Thank you for your honesty, ‘hang in there’. As we know, you’re finding this skill a challenge. Through your PL Curriculum you will be given an opportunity to work on and improve in this area. Getting strong in every skill requires the technical ability as well as an open mind to grow and develop this area of your schoolwork."
+            },
+            {
+              "label": "2",
+              "score": 25,
+              "descriptive_text": "Thank you for your honesty, ‘hang in there’. As we know, you’re finding this skill a challenge. Through your PL Curriculum you will be given an opportunity to work on and improve in this area. Getting strong in every skill requires the technical ability as well as an open mind to grow and develop this area of your schoolwork."
+            },
+            {
+              "label": "3",
+              "score": 50,
+              "descriptive_text": "Great stuff! It seems you’re fairly strong in this area of your schoolwork. Your goal will be to get this up to a consistent 4-5 out of 5 and turn it into a strength. Through your PL Curriculum you will highlight exactly the specific areas you need to focus on in order to make this progress. Your PL Teacher will then help you to get there."
+            },
+            {
+              "label": "4",
+              "score": 50,
+              "descriptive_text": "Great stuff! It seems you’re fairly strong in this area of your schoolwork. Your goal will be to get this up to a consistent 4-5 out of 5 and turn it into a strength. Through your PL Curriculum you will highlight exactly the specific areas you need to focus on in order to make this progress. Your PL Teacher will then help you to get there."
+            },
+            {
+              "label": "5",
+              "score": 75,
+              "descriptive_text": "Great stuff! It seems you’re fairly strong in this area of your schoolwork. Your goal will be to get this up to a consistent 4-5 out of 5 and turn it into a strength. Through your PL Curriculum you will highlight exactly the specific areas you need to focus on in order to make this progress. Your PL Teacher will then help you to get there."
+            }
+          ]
+        },
+        {
+          "id": 73,
+          "label": "Give yourself a score out of 5,5 being amazing and 1 being poor at completing my homework",
+          "answers": [
+            {
+              "label": "1",
+              "score": 25,
+              "descriptive_text": "Thank you for your honesty, ‘hang in there’. As we know, you’re finding this skill a challenge. Through your PL Curriculum you will be given an opportunity to work on and improve in this area. Getting strong in every skill requires the technical ability as well as an open mind to grow and develop this area of your schoolwork."
+            },
+            {
+              "label": "2",
+              "score": 25,
+              "descriptive_text": "Thank you for your honesty, ‘hang in there’. As we know, you’re finding this skill a challenge. Through your PL Curriculum you will be given an opportunity to work on and improve in this area. Getting strong in every skill requires the technical ability as well as an open mind to grow and develop this area of your schoolwork."
+            },
+            {
+              "label": "3",
+              "score": 50,
+              "descriptive_text": "Great stuff! It seems you’re fairly strong in this area of your schoolwork. Your goal will be to get this up to a consistent 4-5 out of 5 and turn it into a strength. Through your PL Curriculum you will highlight exactly the specific areas you need to focus on in order to make this progress. Your PL Teacher will then help you to get there."
+            },
+            {
+              "label": "4",
+              "score": 50,
+              "descriptive_text": "Great stuff! It seems you’re fairly strong in this area of your schoolwork. Your goal will be to get this up to a consistent 4-5 out of 5 and turn it into a strength. Through your PL Curriculum you will highlight exactly the specific areas you need to focus on in order to make this progress. Your PL Teacher will then help you to get there."
+            },
+            {
+              "label": "5",
+              "score": 75,
+              "descriptive_text": "Great stuff! It seems you’re fairly strong in this area of your schoolwork. Your goal will be to get this up to a consistent 4-5 out of 5 and turn it into a strength. Through your PL Curriculum you will highlight exactly the specific areas you need to focus on in order to make this progress. Your PL Teacher will then help you to get there."
+            }
+          ]
+        },
+        {
+          "id": 74,
+          "label": "Give yourself a score out of 5,5 being amazing and 1 being poor at adding and subtracting",
+          "answers": [
+            {
+              "label": "1",
+              "score": 25,
+              "descriptive_text": "Thank you for your honesty, ‘hang in there’. As we know, you’re finding this skill a challenge. Through your PL Curriculum you will be given an opportunity to work on and improve in this area. Getting strong in every skill requires the technical ability as well as an open mind to grow and develop this area of your schoolwork."
+            },
+            {
+              "label": "2",
+              "score": 25,
+              "descriptive_text": "Thank you for your honesty, ‘hang in there’. As we know, you’re finding this skill a challenge. Through your PL Curriculum you will be given an opportunity to work on and improve in this area. Getting strong in every skill requires the technical ability as well as an open mind to grow and develop this area of your schoolwork."
+            },
+            {
+              "label": "3",
+              "score": 50,
+              "descriptive_text": "Great stuff! It seems you’re fairly strong in this area of your schoolwork. Your goal will be to get this up to a consistent 4-5 out of 5 and turn it into a strength. Through your PL Curriculum you will highlight exactly the specific areas you need to focus on in order to make this progress. Your PL Teacher will then help you to get there."
+            },
+            {
+              "label": "4",
+              "score": 50,
+              "descriptive_text": "Great stuff! It seems you’re fairly strong in this area of your schoolwork. Your goal will be to get this up to a consistent 4-5 out of 5 and turn it into a strength. Through your PL Curriculum you will highlight exactly the specific areas you need to focus on in order to make this progress. Your PL Teacher will then help you to get there."
+            },
+            {
+              "label": "5",
+              "score": 75,
+              "descriptive_text": "Great stuff! It seems you’re fairly strong in this area of your schoolwork. Your goal will be to get this up to a consistent 4-5 out of 5 and turn it into a strength. Through your PL Curriculum you will highlight exactly the specific areas you need to focus on in order to make this progress. Your PL Teacher will then help you to get there."
+            }
+          ]
+        },
+        {
+          "id": 75,
+          "label": "Give yourself a score out of 5,5 being amazing and 1 being poor at multiplying and dividing",
+          "answers": [
+            {
+              "label": "1",
+              "score": 25,
+              "descriptive_text": "Thank you for your honesty, ‘hang in there’. As we know, you’re finding this skill a challenge. Through your PL Curriculum you will be given an opportunity to work on and improve in this area. Getting strong in every skill requires the technical ability as well as an open mind to grow and develop this area of your schoolwork."
+            },
+            {
+              "label": "2",
+              "score": 25,
+              "descriptive_text": "Thank you for your honesty, ‘hang in there’. As we know, you’re finding this skill a challenge. Through your PL Curriculum you will be given an opportunity to work on and improve in this area. Getting strong in every skill requires the technical ability as well as an open mind to grow and develop this area of your schoolwork."
+            },
+            {
+              "label": "3",
+              "score": 50,
+              "descriptive_text": "Great stuff! It seems you’re fairly strong in this area of your schoolwork. Your goal will be to get this up to a consistent 4-5 out of 5 and turn it into a strength. Through your PL Curriculum you will highlight exactly the specific areas you need to focus on in order to make this progress. Your PL Teacher will then help you to get there."
+            },
+            {
+              "label": "4",
+              "score": 50,
+              "descriptive_text": "Great stuff! It seems you’re fairly strong in this area of your schoolwork. Your goal will be to get this up to a consistent 4-5 out of 5 and turn it into a strength. Through your PL Curriculum you will highlight exactly the specific areas you need to focus on in order to make this progress. Your PL Teacher will then help you to get there."
+            },
+            {
+              "label": "5",
+              "score": 75,
+              "descriptive_text": "Great stuff! It seems you’re fairly strong in this area of your schoolwork. Your goal will be to get this up to a consistent 4-5 out of 5 and turn it into a strength. Through your PL Curriculum you will highlight exactly the specific areas you need to focus on in order to make this progress. Your PL Teacher will then help you to get there."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "label": "Your goals",
+      "style": {
+        "colourway": 3
+      },
+      "is_active": true,
+      "questions": [
+        {
+          "id": 76,
+          "label": "Out of the following, what would you like to achieve the most this year in class (you can only pick one so think carefully)?",
+          "answers": [
+            {
+              "label": "Improve my speaking skills",
+              "score": 75,
+              "descriptive_text": "Great response and thank you for your honesty.  \n<br>Please write down answers to the following questions:<br><br>a).  Why have I chosen this as my area of improvement?  Why do I feel I need to improve here?<br><br>b).  By improving in this area how will it help me in school?<br>c).  What are three things I can do to improve in this area?<br><br>"
+            },
+            {
+              "label": "Get better at writing",
+              "score": 75,
+              "descriptive_text": "Great response and thank you for your honesty.  \n<br>Please write down answers to the following questions:<br><br>a).  Why have I chosen this as my area of improvement?  Why do I feel I need to improve here?<br><br>b).  By improving in this area how will it help me in school?<br><br>c).  What are three things I can do to improve in this area?<br><br>"
+            },
+            {
+              "label": "Make reading a lot easier than it is now",
+              "score": 50,
+              "descriptive_text": "Great response and thank you for your honesty.  \n<br>Please write down answers to the following questions:<br><br>a).  Why have I chosen this as my area of improvement?  Why do I feel I need to improve here?<br><br>b).  By improving in this area how will it help me in school?<br>c).  What are three things I can do to improve in this area?<br><br>"
+            },
+            {
+              "label": "Improve my listening, I get distracted a lot of the time and forget to listen to the teachers",
+              "score": 50,
+              "descriptive_text": "Great response and thank you for your honesty.  \n<br>Please write down answers to the following questions:<br><br>a).  Why have I chosen this as my area of improvement?  Why do I feel I need to improve here?<br><br>b).  By improving in this area how will it help me in school?<br><br>c).  What are three things I can do to improve in this area?<br><br>"
+            },
+            {
+              "label": "Not to feel so stressed all the time",
+              "score": 25,
+              "descriptive_text": "Great response and thank you for your honesty.  \n<br>Please write down answers to the following questions:<br><br>a).  Why have I chosen this as my area of improvement?  Why do I feel I need to improve here?<br><br>b).  By improving in this area how will it help me in school?<br><br>        c).  What are three things I can do to improve in this area?<br><br>"
+            },
+            {
+              "label": "All of the above",
+              "score": 25,
+              "descriptive_text": "Thank you for your honest answer, feeling like you need to improve in all of the above areas can feel a little stressful and you may be feeling like you are really behind.  It is important for you not to feel overwhelmed or stressed as a result. The good news is that you will be taught how to avoid feeling anxiety with all of these things above, during your PL Lessons.\n<br>Please write down answers to the following questions:<br>        <br>Out of the above five areas:<br><br>a).  What do I find difficult?<br>b).  What did I recently do really well in and why?<br>c).  What did I do not so well in and why?<br><br>Bring your answers to your PL Lesson and show them to your PL Teacher.<br><br><br><br>        <br><br>"
+            }
+          ]
+        },
+        {
+          "id": 77,
+          "label": "Exactly like Question 1 above if you could only pick one of the options below, which one would you pick?",
+          "answers": [
+            {
+              "label": "I would like to be more organized",
+              "score": 75,
+              "descriptive_text": "Great response and thank you for your honesty.  \n<br>Please write down answers to the following questions:<br><br>a).  Why have I chosen this as my area of improvement?  Why do I feel I need to improve here?<br><br>b).  By improving in this area how will it help me in school?<br><br>        c).  What are three things I can do to improve in this area?<br><br>"
+            },
+            {
+              "label": "I would like to have a better memory and not remember more",
+              "score": 75,
+              "descriptive_text": "Great response and thank you for your honesty.  \n<br>Please write down answers to the following questions:<br><br>a).  Why have I chosen this as my area of improvement?  Why do I feel I need to improve here?<br><br>b).  By improving in this area how will it help me in school?<br><br>c).  What are three things I can do to improve in this area?<br><br>"
+            },
+            {
+              "label": "I would like to have more energy and not feel so tired all the time",
+              "score": 50,
+              "descriptive_text": "Great response and thank you for your honesty.  \n<br>Please write down answers to the following questions:<br><br>a).  Why have I chosen this as my area of improvement?  Why do I feel I need to improve here?<br><br>b).  By improving in this area how will it help me in school?<br><br>c).  What are three things I can do to improve in this area?<br><br>"
+            },
+            {
+              "label": "I would like to feel other people notice my effort and hard work",
+              "score": 50,
+              "descriptive_text": "Great response and thank you for your honesty.  \n<br>Please write down answers to the following questions:<br><br>a).  Why have I chosen this as my area of improvement?  Why do I feel I need to improve here?<br><br>b).  By improving in this area how will it help me in school?<br><br>c).  What are three things I can do to improve in this area?<br><br>"
+            },
+            {
+              "label": "I would like to understand things a lot faster and without too much effort",
+              "score": 75,
+              "descriptive_text": "Great response and thank you for your honesty.  \n<br>Please write down answers to the following questions:<br><br>a).  Why have I chosen this as my area of improvement?  Why do I feel I need to improve here?<br><br>b).  By improving in this area how will it help me in school?<br><br>c).  What are three things I can do to improve in this area?<br><br>"
+            },
+            {
+              "label": "All of the above",
+              "score": 25,
+              "descriptive_text": "Thank you for your honest answer, feeling like you need to improve in all of the above areas can feel a little stressful and you may be feeling like you are really behind.  It is important for you not to feel overwhelmed or stressed as a result. The good news is that you will be taught how to avoid feeling anxiety with all of these things above, during your PL Lessons.\n<br>Please write down answers to the following questions:<br><br>Out of the above five areas:<br><br>a).  What do I find difficult?<br>b).  What did I recently do really well in and why?<br>c).  What did I do not so well in and why?<br><br>Bring your answers to your PL Lesson and show them to your PL Teacher.<br><br><br><br><br><br>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

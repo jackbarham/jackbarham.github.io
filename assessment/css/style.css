@@ -45,14 +45,18 @@ body,
 html {
   margin: 0;
   padding: 0;
-  height: 100%; }
+  height: 100%;
+  background: #835365; }
 
 * {
   box-sizing: border-box; }
 
-.wrapper {
+.wrapper,
+.content,
+.scroll {
   position: relative;
-  height: 100%; }
+  height: 100%;
+  overflow: hidden; }
 
 img {
   display: block;
@@ -526,6 +530,13 @@ img {
   font-style: normal;
   font-weight: 400; }
 
+@font-face {
+  font-family: 'pllogo';
+  src: url("../fonts/pllogo.eot?49802803");
+  src: url("../fonts/pllogo.eot?49802803#iefix") format("embedded-opentype"), url("../fonts/pllogo.woff?49802803") format("woff"), url("../fonts/pllogo.ttf?49802803") format("truetype"), url("../fonts/pllogo.svg?49802803#pllogo") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
 /*!
  *  Material Design Iconic Font by Sergey Kupletsky (@zavoloklom) - http://zavoloklom.github.io/material-design-mdiic-font/
  *  License - http://zavoloklom.github.io/material-design-mdiic-font/license (Font: SIL OFL 1.1, CSS: MIT License)
@@ -553,112 +564,79 @@ img {
 .mdi-play:before {
   content: '\f3aa'; }
 
-.pl-logo {
-  font-size: 1em; }
-  .pl-logo.colour, .pl-logo.mono, .pl-loader {
-    position: relative;
-    height: 1em;
-    width: 3.3em;
-    color: black;
-    display: inline-block; }
-    .pl-logo.colour .symbol, .pl-logo.mono .symbol, .pl-loader .symbol {
+.loader {
+  height: 100%; }
+
+.pl-loader {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -0.5em;
+  margin-left: -0.5em;
+  font-size: 4em;
+  position: relative;
+  height: 1em;
+  width: 1em;
+  color: black;
+  display: inline-block;
+  text-align: center; }
+  .pl-loader .symbol {
+    position: absolute;
+    top: 0;
+    left: 0; }
+    .pl-loader .symbol:before, .pl-loader .symbol:after,
+    .pl-loader .symbol span:before {
+      font-family: "pllogo";
+      font-style: normal;
+      font-weight: normal;
+      speak: none;
+      display: inline-block;
+      text-decoration: inherit;
+      width: 1em;
+      margin: 0;
+      text-align: center;
+      font-variant: normal;
+      text-transform: none;
+      line-height: 1em;
       position: absolute;
       top: 0;
       left: 0; }
-      .pl-logo.colour .symbol:before, .pl-logo.colour .symbol:after,
-      .pl-logo.colour .symbol span:before, .pl-logo.mono .symbol:before, .pl-loader .symbol:before, .pl-logo.mono .symbol:after, .pl-loader .symbol:after,
-      .pl-logo.mono .symbol span:before, .pl-loader .symbol span:before {
-        font-family: "pllogo";
-        font-style: normal;
-        font-weight: normal;
-        speak: none;
-        display: inline-block;
-        text-decoration: inherit;
-        width: 1em;
-        margin: 0;
-        text-align: center;
-        font-variant: normal;
-        text-transform: none;
-        line-height: 1em;
-        position: absolute;
-        top: 0;
-        left: 0; }
-      .pl-logo.colour .symbol:before, .pl-logo.mono .symbol:before, .pl-loader .symbol:before {
-        content: '\e804';
-        color: #701516; }
-      .pl-logo.colour .symbol span:before, .pl-logo.mono .symbol span:before, .pl-loader .symbol span:before {
-        content: '\e803';
-        color: #a51f1e; }
-      .pl-logo.colour .symbol:after, .pl-logo.mono .symbol:after, .pl-loader .symbol:after {
-        content: '\e802';
-        color: #e31d1d; }
-    .pl-logo.colour .text, .pl-logo.mono .text, .pl-loader .text {
-      font-size: 1em;
-      font-style: normal;
+    .pl-loader .symbol:before {
+      content: '\e804';
+      -webkit-animation: pulse3 2s infinite;
+      animation: pulse3 2s infinite; }
+    .pl-loader .symbol span:before {
+      content: '\e803';
+      -webkit-animation: pulse2 2s infinite;
+      animation: pulse2 2s infinite; }
+    .pl-loader .symbol:after {
+      content: '\e802';
+      -webkit-animation: pulse1 2s infinite;
+      animation: pulse1 2s infinite; }
+    .pl-loader .symbol:before, .pl-loader .symbol:after,
+    .pl-loader .symbol span:before {
+      color: white;
+      opacity: 0.6; }
+  .pl-loader .text {
+    font-size: 1em;
+    font-style: normal;
+    position: absolute;
+    top: 0;
+    left: 1.1em; }
+    .pl-loader .text:before, .pl-loader .text:after {
+      font-size: 0.35em;
       position: absolute;
-      top: 0;
-      left: 1.1em; }
-      .pl-logo.colour .text:before, .pl-logo.colour .text:after, .pl-logo.mono .text:before, .pl-loader .text:before, .pl-logo.mono .text:after, .pl-loader .text:after {
-        font-size: 0.35em;
-        position: absolute;
-        left: 0; }
-      .pl-logo.colour .text:before, .pl-logo.mono .text:before, .pl-loader .text:before {
-        font-family: 'Sanchez Slab';
-        content: 'Performance';
-        font-weight: 500 !important;
-        top: 0.4em; }
-      .pl-logo.colour .text:after, .pl-logo.mono .text:after, .pl-loader .text:after {
-        font-family: 'Sanchez Slab';
-        font-weight: 200 !important;
-        content: 'Learning';
-        top: 1.4em; }
-    .pl-logo.colour .r, .pl-logo.mono .r, .pl-loader .r {
-      font-size: 0.3em;
-      font-style: normal;
-      position: absolute;
-      top: 1.75em;
-      left: 8.7em; }
-    .pl-logo.colour.white .text, .pl-logo.mono.white .text, .white.pl-loader .text {
-      color: white; }
-  .pl-logo.mono.white .symbol:before, .white.pl-loader .symbol:before,
-  .pl-logo.mono.white .symbol:after, .white.pl-loader .symbol:after,
-  .pl-logo.mono.white .symbol span:before, .white.pl-loader .symbol span:before,
-  .pl-logo.mono.white .text, .white.pl-loader .text {
-    color: white; }
-  .pl-logo.mono.black .symbol:before, .black.pl-loader .symbol:before,
-  .pl-logo.mono.black .symbol:after, .black.pl-loader .symbol:after,
-  .pl-logo.mono.black .symbol span:before, .black.pl-loader .symbol span:before,
-  .pl-logo.mono.black .text, .black.pl-loader .text {
-    color: black; }
-  .pl-logo.mono .symbol:before, .pl-loader .symbol:before,
-  .pl-logo.mono .symbol:after, .pl-loader .symbol:after,
-  .pl-logo.mono .symbol span:before, .pl-loader .symbol span:before {
-    opacity: 0.6; }
-  .pl-logo.gradient {
-    position: relative;
-    height: 1em;
-    width: 3.3em;
-    color: black;
-    display: inline-block;
-    background: transparent url(../img/PL_Logo_Text.png);
-    background-size: cover; }
-
-.pl-loader {
-  width: 1em;
-  font-size: 4em;
-  text-align: center; }
-  .pl-loader .symbol:before, .pl-loader .symbol:after,
-  .pl-loader .symbol span:before {
-    color: transparent; }
-  .pl-loader .symbol:after {
-    -webkit-animation: pulse1 2s infinite;
-    animation: pulse1 2s infinite; }
-  .pl-loader .symbol span:before {
-    -webkit-animation: pulse2 2s infinite;
-    animation: pulse2 2s infinite; }
-  .pl-loader .symbol:before {
-    -webkit-animation: pulse3 2s infinite;
-    animation: pulse3 2s infinite; }
+      left: 0; }
+    .pl-loader .text:before {
+      font-family: 'Sanchez Slab';
+      content: 'Performance';
+      font-weight: 500 !important;
+      top: 0.4em; }
+    .pl-loader .text:after {
+      font-family: 'Sanchez Slab';
+      font-weight: 200 !important;
+      content: 'Learning';
+      top: 1.4em; }
   .pl-loader .message {
     font-size: 0.2em;
     font-style: normal;
@@ -667,7 +645,8 @@ img {
     width: 10em;
     display: inline-block;
     top: 6em;
-    left: -2.5em; }
+    left: -2.5em;
+    color: white; }
   .pl-loader.loading .symbol span:after {
     content: 'Loading';
     font-size: 0.2em;
@@ -682,7 +661,7 @@ img {
   0% {
     color: transparent; }
   35% {
-    color: #e31d1a; }
+    color: white; }
   70% {
     color: transparent; }
   100% {
@@ -692,7 +671,7 @@ img {
   0% {
     color: transparent; }
   35% {
-    color: #e31d1a; }
+    color: white; }
   70% {
     color: transparent; }
   100% {
@@ -704,7 +683,7 @@ img {
   10% {
     color: transparent; }
   45% {
-    color: #e31d1a; }
+    color: white; }
   80% {
     color: transparent; }
   100% {
@@ -716,7 +695,7 @@ img {
   10% {
     color: transparent; }
   45% {
-    color: #e31d1a; }
+    color: white; }
   80% {
     color: transparent; }
   100% {
@@ -728,7 +707,7 @@ img {
   20% {
     color: transparent; }
   55% {
-    color: #e31d1a; }
+    color: white; }
   90% {
     color: transparent; }
   100% {
@@ -740,7 +719,7 @@ img {
   20% {
     color: transparent; }
   55% {
-    color: #e31d1a; }
+    color: white; }
   90% {
     color: transparent; }
   100% {
@@ -782,6 +761,54 @@ ul, ol {
 li {
   margin-top: 0.5em;
   margin-bottom: 0.5em; }
+
+.animate {
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+  display: block;
+  overflow-x: hidden;
+  height: 100%;
+  -webkit-overflow-scrolling: touch; }
+  .animate .animate-page {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    transition: -webkit-transform 0.5s ease;
+    transition: transform 0.5s ease;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0); }
+    .animate .animate-page > div {
+      min-height: 100%;
+      padding: 1em; }
+    .animate .animate-page.ng-enter {
+      -webkit-transform: translate3d(0, 100%, 0);
+      transform: translate3d(0, 100%, 0);
+      z-index: 0; }
+    .animate .animate-page.ng-enter-active {
+      -webkit-transform: translate3d(0, 0, 0);
+      transform: translate3d(0, 0, 0); }
+    .animate .animate-page.ng-leave {
+      -webkit-transform: translate3d(0, 0, 0);
+      transform: translate3d(0, 0, 0); }
+    .animate .animate-page.ng-leave-active {
+      -webkit-transform: translate3d(0, -100%, 0);
+      transform: translate3d(0, -100%, 0);
+      z-index: -10; }
+    .animate .animate-page .animate-back.ng-enter {
+      -webkit-transform: translate3d(0, -100%, 0);
+      transform: translate3d(0, -100%, 0);
+      z-index: -10; }
+    .animate .animate-page .animate-back.ng-enter-active {
+      -webkit-transform: translate3d(0, 0, 0);
+      transform: translate3d(0, 0, 0); }
+    .animate .animate-page .animate-back.ng-leave {
+      -webkit-transform: translate3d(0, 0, 0);
+      transform: translate3d(0, 0, 0); }
+    .animate .animate-page .animate-back.ng-leave-active {
+      -webkit-transform: translate3d(0, 100%, 0);
+      transform: translate3d(0, 100%, 0);
+      z-index: 0; }
 
 .assessment {
   padding: 35px 0 0 0; }
@@ -858,9 +885,20 @@ li {
     width: 100%; }
 
 .assessment-control {
+  display: block;
+  width: 100%;
+  position: absolute;
+  bottom: 0; }
+
+.assessment-control-inner {
   max-width: 1100px;
   margin: 0 auto;
   padding: 0 15px; }
+
+.assessment-control-buttons {
+  float: right;
+  position: relative;
+  top: -70px; }
 
 @media (max-width: 890px) {
   .assessment-title h1 {
@@ -871,6 +909,8 @@ li {
     float: left;
     position: relative;
     top: 5px; }
+  .assessment-control {
+    display: none; }
   .assessment-questions {
     float: none;
     width: 100%; }
@@ -889,6 +929,13 @@ li {
   .assessment-questions li {
     font-size: 17px;
     font-size: 1.0625rem; }
+  .assessment-order {
+    width: 60px; }
+    .assessment-order span {
+      font-size: 27px;
+      font-size: 1.6875rem; }
+  .assessment-text {
+    padding-left: 60px; }
   .assessment-control {
     display: none; } }
 
@@ -908,6 +955,8 @@ a.button {
   width: 160px;
   font-size: 23px;
   font-size: 1.4375rem; }
+  a.button:hover {
+    cursor: pointer; }
   a.button .mdi-play {
     transition: all 0.15s linear;
     position: absolute;
@@ -967,10 +1016,10 @@ a.button-next {
     color: #FF005E; }
     a.button-next.selected .mdi-play {
       color: #FF005E; }
-  a.button-next:hover {
+  a.button-next:not([disabled]):hover {
     background: #FF005E;
     color: white; }
-    a.button-next:hover .mdi-play {
+    a.button-next:not([disabled]):hover .mdi-play {
       color: white; }
 
 a.button-back {
@@ -1043,27 +1092,37 @@ a.button-back {
     font-size: 23px;
     font-size: 1.4375rem; } }
 
-.frame {
+.frame-wrapper {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
   padding-top: 80px;
-  position: relative;
-  width: 100%;
-  height: 100%; }
-  .frame.frame-red {
+  overflow: hidden; }
+  .frame-wrapper .frame-inner {
+    overflow: auto;
+    height: 100%;
+    padding-bottom: 10px; }
+  .frame-wrapper.frame-red {
     background: #835365; }
-  .frame.frame-green {
+  .frame-wrapper.frame-green {
     background: #1E8978; }
-  .frame.frame-blue {
+  .frame-wrapper.frame-blue {
     background: #0F769F; }
-  .frame.frame-greyish {
+  .frame-wrapper.frame-greyish {
     background: #628788; }
-  .frame.frame-brightgreen {
+  .frame-wrapper.frame-brightgreen {
     background: #15A674; }
+
+.frame-full {
+  height: 100%; }
 
 .header {
   width: 100%;
   height: 80px;
   padding: 0 15px;
-  position: fixed;
+  position: absolute;
   z-index: 20;
   background: rgba(253, 251, 196, 0.15); }
 
@@ -1083,7 +1142,7 @@ a.button-back {
 
 .header-mobile {
   display: none; }
-  .header-mobile.open .header-icon.zmdi {
+  .header-mobile.open .header-icon.mdi {
     color: #666; }
   .header-mobile.open .header-control-reveal {
     visibility: visible;
@@ -1115,13 +1174,13 @@ a.button-back {
   font-size: 13px;
   font-size: 0.8125rem; }
 
-.header-icon.zmdi {
+.header-icon.mdi {
   line-height: 80px;
   font-size: 36px;
   font-size: 2.25rem;
   position: relative;
   z-index: 20; }
-  .header-icon.zmdi:hover {
+  .header-icon.mdi:hover {
     cursor: pointer; }
 
 @media (max-width: 580px) {
@@ -1170,6 +1229,17 @@ a.button-back {
   height: 74px;
   margin-bottom: 50px; }
 
+.intro-control a.button-back {
+  display: inline-block;
+  float: none; }
+
+.intro-control a.button-intro {
+  display: inline-block;
+  float: none;
+  position: relative;
+  margin-left: 15px;
+  top: -14px; }
+
 @media (max-width: 720px) {
   .intro {
     max-width: 280px; }
@@ -1186,12 +1256,13 @@ a.button-back {
   position: absolute;
   bottom: 0;
   height: 50px;
-  background: rgba(0, 0, 0, 0.3); }
+  background: rgba(0, 0, 0, 0.6); }
 
 .progress-amount {
   height: 50px;
   background: #FF005E;
-  position: relative; }
+  position: relative;
+  transition: all 1s ease; }
   .progress-amount.progress-over50 span {
     right: 30px; }
   .progress-amount span {
